@@ -52,6 +52,7 @@ items = []
 for enrow in rawen[1:]:
     assert isinstance(enrow[RAWEN_CODE], str) and len(enrow[RAWEN_CODE]) == 2
     assert isinstance(enrow[RAWEN_CCTLD], str) and len(enrow[RAWEN_CCTLD]) >= 3
+    assert isinstance(enrow[RAWEN_NAME], str) and len(enrow[RAWEN_NAME]) > 0
 
     item = {
         'code_alpha2_uc': enrow[RAWEN_CODE].upper(),
@@ -91,6 +92,8 @@ for enrow in rawen[1:]:
             'name': item_fr[0]['d'][ISOFR_NAME_FR],
             'longname': None
         }
+
+    assert not any(filter(lambda x: x['code_alpha2_uc'] == item['code_alpha2_uc'], items))
 
     items.append(item)
 

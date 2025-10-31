@@ -88,6 +88,8 @@ for enrow in rawen[2:]:
             'name': item_fr[0][RAWFR_NAME]
         }
 
+    assert not any(filter(lambda x: x['code_alpha2'] == item['code_alpha2'], items))
+
     items.append(item)
 
 with open(f"{OUTFILEPREFIX}.json", 'w') as f:
