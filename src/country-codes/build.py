@@ -3,7 +3,9 @@
 import json
 import os, os.path
 import sys
-from pprint import pprint
+
+sys.path.append(os.path.realpath(os.path.dirname(__file__)+'/..'))
+from utils import *
 
 BASEDIR=os.path.realpath(os.path.dirname(__file__)+'/../../')
 PROJECT=os.path.basename(os.path.realpath(os.path.dirname(__file__)))
@@ -97,5 +99,25 @@ for enrow in rawen[1:]:
 
     items.append(item)
 
+# -> Output JSON
 with open(f"{OUTFILEPREFIX}.json", 'w') as f:
     json.dump(items, f, indent=4)
+
+# -> Output CSV
+columndef = [
+    { 'header': 'code_alpha2_uc', 'selector': lambda x: x['code_alpha2_uc'] },
+    { 'header': 'code_alpha2_lc', 'selector': lambda x: x['code_alpha2_lc'] },
+    { 'header': 'code_alpha3_uc', 'selector': lambda x: x['code_alpha3_uc'] },
+    { 'header': 'code_alpha3_lc', 'selector': lambda x: x['code_alpha3_lc'] },
+    { 'header': 'code_numeric', 'selector': lambda x: x['code_numeric'] },
+    { 'header': 'cctld', 'selector': lambda x: x['cctld'] },
+    { 'header': 'name_en', 'selector': lambda x: x['translations']['en']['name'] },
+    { 'header': 'longname_en', 'selector': lambda x: x['translations']['en']['longname'] },
+    { 'header': 'name_de', 'selector': lambda x: x['translations']['de']['name'] },
+    { 'header': 'longname_de', 'selector': lambda x: x['translations']['de']['longname'] },
+    { 'header': 'name_fr', 'selector': lambda x: x['translations']['fr']['name'] },
+    { 'header': 'longname_fr', 'selector': lambda x: x['translations']['fr']['longname'] },
+]
+
+with open(f"{OUTFILEPREFIX}.csv", 'w') as f:
+    f.write(dict2csv(items, columndef))

@@ -3,7 +3,9 @@
 import json
 import os, os.path
 import sys
-from pprint import pprint
+
+sys.path.append(os.path.realpath(os.path.dirname(__file__)+'/..'))
+from utils import *
 
 BASEDIR=os.path.realpath(os.path.dirname(__file__)+'/../../')
 PROJECT=os.path.basename(os.path.realpath(os.path.dirname(__file__)))
@@ -92,5 +94,19 @@ for enrow in rawen[2:]:
 
     items.append(item)
 
+# -> Output JSON
 with open(f"{OUTFILEPREFIX}.json", 'w') as f:
     json.dump(items, f, indent=4)
+
+# -> Output CSV
+columndef = [
+    { 'header': 'code_alpha2', 'selector': lambda x: x['code_alpha2'] },
+    { 'header': 'code_alpha3_t', 'selector': lambda x: x['code_alpha3_t'] },
+    { 'header': 'code_alpha3_b', 'selector': lambda x: x['code_alpha3_b'] },
+    { 'header': 'name_en', 'selector': lambda x: x['translations']['en']['name'] },
+    { 'header': 'name_de', 'selector': lambda x: x['translations']['de']['name'] },
+    { 'header': 'name_fr', 'selector': lambda x: x['translations']['fr']['name'] },
+]
+
+with open(f"{OUTFILEPREFIX}.csv", 'w') as f:
+    f.write(dict2csv(items, columndef))
