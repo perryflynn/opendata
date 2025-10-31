@@ -65,7 +65,7 @@ for enrow in rawen[1:]:
         'cctld': enrow[RAWEN_CCTLD].lower(),
         'translations': {
             'en': {
-                'name': enrow[RAWEN_NAME],
+                'name': cleanwikicell(enrow[RAWEN_NAME], None),
                 'longname': None
             }
         }
@@ -91,7 +91,7 @@ for enrow in rawen[1:]:
         item['code_alpha3_uc'] = item_fr[0]['d'][ISOFR_CODE_LONG].upper()
         item['code_alpha3_lc'] = item_fr[0]['d'][ISOFR_CODE_LONG].lower()
         item['translations']['fr'] = {
-            'name': item_fr[0]['d'][ISOFR_NAME_FR],
+            'name': cleanwikicell(item_fr[0]['d'][ISOFR_NAME_FR], None),
             'longname': None
         }
 

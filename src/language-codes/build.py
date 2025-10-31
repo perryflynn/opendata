@@ -64,7 +64,7 @@ for enrow in rawen[2:]:
         'code_alpha3_b': enrow[RAWEN_CODE3B].lower(),
         'translations': {
             'en': {
-                'name': enrow[RAWEN_NAME],
+                'name': cleanwikicell(enrow[RAWEN_NAME]),
             }
         }
     }
@@ -77,7 +77,7 @@ for enrow in rawen[2:]:
         assert isinstance(item_de[0][RAWDE_NAME], str) and len(item_de[0][RAWDE_NAME]) > 0
 
         item['translations']['de'] = {
-            'name': item_de[0][RAWDE_NAME],
+            'name': cleanwikicell(item_de[0][RAWDE_NAME]),
         }
 
     item_fr = list(filter(lambda x: x[RAWFR_CODE].lower() == enrow[RAWEN_CODE].lower(), rawfr))
@@ -87,7 +87,7 @@ for enrow in rawen[2:]:
         assert isinstance(item_fr[0][RAWFR_CODE3], str) and len(item_fr[0][RAWFR_CODE3]) > 0
 
         item['translations']['fr'] = {
-            'name': item_fr[0][RAWFR_NAME]
+            'name': cleanwikicell(item_fr[0][RAWFR_NAME])
         }
 
     assert not any(filter(lambda x: x['code_alpha2'] == item['code_alpha2'], items))

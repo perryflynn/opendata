@@ -37,7 +37,7 @@
 "BY";"by";"BLR";"blr";112;".by";"Belarus";;"Belarus";"die Republik Belarus";"Bélarus (le)";
 "BZ";"bz";"BLZ";"blz";84;".bz";"Belize";;"Belize";"Belize";"Belize (le)";
 "CA";"ca";"CAN";"can";124;".ca";"Canada";;"Kanada";"Kanada";"Canada (le)";
-"CC";"cc";"CCK";"cck";166;".cc";"Cocos (Keeling) Islands";;"Kokosinseln (Keeling)";;"Cocos (les Îles)/ Keeling (les Îles)";
+"CC";"cc";"CCK";"cck";166;".cc";"Cocos (Keeling) Islands";;"Kokosinseln (Keeling)";;"Cocos (les Îles)/ Keeling (les Îles)";
 "CD";"cd";"COD";"cod";180;".cd";"Congo, Democratic Republic of the";;"Demokratische Republik Kongo";"die Demokratische Republik Kongo";"Congo (la République démocratique du)";
 "CF";"cf";"CAF";"caf";140;".cf";"Central African Republic";;"Zentralafrikanische Republik";"die Zentralafrikanische Republik";"République centrafricaine (la)";
 "CG";"cg";"COG";"cog";178;".cg";"Congo";;"Kongo";"die Republik Kongo";"Congo (le)";
@@ -59,7 +59,7 @@
 "DJ";"dj";"DJI";"dji";262;".dj";"Djibouti";;"Dschibuti";"die Republik Dschibuti";"Djibouti";
 "DK";"dk";"DNK";"dnk";208;".dk";"Denmark";;"Dänemark";"das Königreich Dänemark";"Danemark (le)";
 "DM";"dm";"DMA";"dma";212;".dm";"Dominica";;"Dominica";"das Commonwealth Dominica";"Dominique (la)";
-"DO";"do";"DOM";"dom";214;".do";"Dominican Republic";;"Dominikanische Republik";"die Dominikanische Republik";"dominicaine (la République)";
+"DO";"do";"DOM";"dom";214;".do";"Dominican Republic";;"Dominikanische Republik";"die Dominikanische Republik";"dominicaine (la République)";
 "DZ";"dz";"DZA";"dza";12;".dz";"Algeria";;"Algerien";"die Demokratische Volksrepublik Algerien";"Algérie (l')";
 "EC";"ec";"ECU";"ecu";218;".ec";"Ecuador";;"Ecuador";"die Republik Ecuador";"Équateur (l')";
 "EE";"ee";"EST";"est";233;".ee";"Estonia";;"Estland";"die Republik Estland";"Estonie (l')";
@@ -78,7 +78,7 @@
 "GB";"gb";"GBR";"gbr";826;".gb(.uk)";"United Kingdom of Great Britain and Northern Ireland";;"Vereinigtes Königreich";"das Vereinigte Königreich Großbritannien und Nordirland";"Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)";
 "GD";"gd";"GRD";"grd";308;".gd";"Grenada";;"Grenada";"Grenada";"Grenade (la)";
 "GE";"ge";"GEO";"geo";268;".ge";"Georgia";;"Georgien";"Georgien";"Géorgie (la)";
-"GF";"gf";"GUF";"guf";254;".gf";"French Guiana";;"Französisch-Guayana";;"Guyane française (la )";
+"GF";"gf";"GUF";"guf";254;".gf";"French Guiana";;"Französisch-Guayana";;"Guyane française (la )";
 "GG";"gg";"GGY";"ggy";831;".gg";"Guernsey";;"Guernsey";;"Guernesey";
 "GH";"gh";"GHA";"gha";288;".gh";"Ghana";;"Ghana";"die Republik Ghana";"Ghana (le)";
 "GI";"gi";"GIB";"gib";292;".gi";"Gibraltar";;"Gibraltar";;"Gibraltar";
@@ -104,7 +104,7 @@
 "IL";"il";"ISR";"isr";376;".il";"Israel";;"Israel";"der Staat Israel";"Israël";
 "IM";"im";"IMN";"imn";833;".im";"Isle of Man";;"Insel Man";;"Île de Man";
 "IN";"in";"IND";"ind";356;".in";"India";;"Indien";"die Republik Indien";"Inde (l')";
-"IO";"io";"IOT";"iot";86;".io";"British Indian Ocean Territory";;"Britisches Territorium im Indischen Ozean";;"Indien (le Territoire britannique de l'océan)";
+"IO";"io";"IOT";"iot";86;".io";"British Indian Ocean Territory";;"Britisches Territorium im Indischen Ozean";;"Indien (le Territoire britannique de l'océan)";
 "IQ";"iq";"IRQ";"irq";368;".iq";"Iraq";;"Irak";"die Republik Irak";"Iraq (l')";
 "IR";"ir";"IRN";"irn";364;".ir";"Iran, Islamic Republic of";;"Islamische Republik Iran";"die Islamische Republik Iran";"Iran (République Islamique d')";
 "IS";"is";"ISL";"isl";352;".is";"Iceland";;"Island";"die Republik Island";"Islande (l')";
@@ -119,10 +119,10 @@
 "KI";"ki";"KIR";"kir";296;".ki";"Kiribati";;"Kiribati";"die Republik Kiribati";"Kiribati";
 "KM";"km";"COM";"com";174;".km";"Comoros";;"Komoren";"die Union der Komoren";"Comores (les)";
 "KN";"kn";"KNA";"kna";659;".kn";"Saint Kitts and Nevis";;"St. Kitts und Nevis";"die Föderation St. Kitts und Nevis";"Saint-Kitts-et-Nevis";
-"KP";"kp";"PRK";"prk";408;".kp";"Korea, Democratic People's Republic of";;"Demokratische Volksrepublik Korea";"die Demokratische Volksrepublik Korea";"Corée (la République populaire démocratique de)";
+"KP";"kp";"PRK";"prk";408;".kp";"Korea, Democratic People's Republic of";;"Demokratische Volksrepublik Korea";"die Demokratische Volksrepublik Korea";"Corée (la République populaire démocratique de)";
 "KR";"kr";"KOR";"kor";410;".kr";"Korea, Republic of";;"Republik Korea";"die Republik Korea";"Corée (la République de)";
 "KW";"kw";"KWT";"kwt";414;".kw";"Kuwait";;"Kuwait";"der Staat Kuwait";"Koweït (le)";
-"KY";"ky";"CYM";"cym";136;".ky";"Cayman Islands";;"Kaimaninseln";;"Caïmans (les Îles)";
+"KY";"ky";"CYM";"cym";136;".ky";"Cayman Islands";;"Kaimaninseln";;"Caïmans (les Îles)";
 "KZ";"kz";"KAZ";"kaz";398;".kz";"Kazakhstan";;"Kasachstan";"die Republik Kasachstan";"Kazakhstan (le)";
 "LA";"la";"LAO";"lao";418;".la";"Lao People's Democratic Republic";;"Demokratische Volksrepublik Laos";"die Demokratische Volksrepublik Laos";"Lao (la République démocratique populaire)";
 "LB";"lb";"LBN";"lbn";422;".lb";"Lebanon";;"Libanon";"die Libanesische Republik";"Liban (le)";
@@ -237,7 +237,7 @@
 "VA";"va";"VAT";"vat";336;".va";"Holy See";;"Vatikanstadt";"der Staat Vatikanstadt";"Saint-Siège (le)";
 "VC";"vc";"VCT";"vct";670;".vc";"Saint Vincent and the Grenadines";;"St. Vincent und die Grenadinen";"St. Vincent und die Grenadinen";"Saint-Vincent-et-les Grenadines";
 "VE";"ve";"VEN";"ven";862;".ve";"Venezuela, Bolivarian Republic of";;"Bolivarische Republik Venezuela";"die Bolivarische Republik Venezuela";"Venezuela (République bolivarienne du)";
-"VG";"vg";"VGB";"vgb";92;".vg";"Virgin Islands (British)";;"Britische Jungferninseln";;"Vierges britanniques (les Îles)";
+"VG";"vg";"VGB";"vgb";92;".vg";"Virgin Islands (British)";;"Britische Jungferninseln";;"Vierges britanniques (les Îles)";
 "VI";"vi";"VIR";"vir";850;".vi";"Virgin Islands (U.S.)";;"Amerikanische Jungferninseln";;"Vierges des États-Unis (les Îles)";
 "VN";"vn";"VNM";"vnm";704;".vn";"Viet Nam";;"Vietnam";"die Sozialistische Republik Vietnam";"Viet Nam (le)";
 "VU";"vu";"VUT";"vut";548;".vu";"Vanuatu";;"Vanuatu";"die Republik Vanuatu";"Vanuatu (le)";

@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 
 def stringify(value: any, qualifier: str = '"') -> str:
     """ Convert a value to string """
@@ -27,3 +27,16 @@ def dict2csv(rows: List[dict], columns: List[dict], separator: str = ';', qualif
         lines.append(separator.join(line))
 
     return lineseparator.join(lines) + lineseparator
+
+def cleanwikicell(input: str, splitafter: Optional[str] = ',') -> str:
+    """ Cleanup value from a wikipedia cell """
+
+    if not isinstance(input, str):
+        return input
+
+    input = input.replace(u'\xa0', ' ')
+
+    if splitafter:
+        input = input.split(splitafter)[0].strip()
+
+    return input

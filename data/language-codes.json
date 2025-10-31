@@ -389,10 +389,10 @@
         "code_alpha3_b": "cat",
         "translations": {
             "en": {
-                "name": "Catalan, Valencian"
+                "name": "Catalan"
             },
             "de": {
-                "name": "Katalanisch, Valencianisch"
+                "name": "Katalanisch"
             },
             "fr": {
                 "name": "Catalan"
@@ -437,7 +437,7 @@
         "code_alpha3_b": "nya",
         "translations": {
             "en": {
-                "name": "Chichewa, Chewa, Nyanja"
+                "name": "Chichewa"
             },
             "de": {
                 "name": "Chichewa"
@@ -469,10 +469,10 @@
         "code_alpha3_b": "chu",
         "translations": {
             "en": {
-                "name": "Church\u00a0Slavonic, Old\u00a0Slavonic, Old\u00a0Church\u00a0Slavonic"
+                "name": "Church Slavonic"
             },
             "de": {
-                "name": "Kirchenslawisch, Altkirchenslawisch"
+                "name": "Kirchenslawisch"
             },
             "fr": {
                 "name": "Vieux-slave"
@@ -597,7 +597,7 @@
         "code_alpha3_b": "div",
         "translations": {
             "en": {
-                "name": "Divehi, Dhivehi, Maldivian"
+                "name": "Divehi"
             },
             "de": {
                 "name": "Dhivehi"
@@ -613,10 +613,10 @@
         "code_alpha3_b": "dut",
         "translations": {
             "en": {
-                "name": "Dutch, Flemish"
+                "name": "Dutch"
             },
             "de": {
-                "name": "Niederl\u00e4ndisch, Belgisches Niederl\u00e4ndisch"
+                "name": "Niederl\u00e4ndisch"
             },
             "fr": {
                 "name": "N\u00e9erlandais"
@@ -805,7 +805,7 @@
         "code_alpha3_b": "gla",
         "translations": {
             "en": {
-                "name": "Gaelic, Scottish\u00a0Gaelic"
+                "name": "Gaelic"
             },
             "de": {
                 "name": "Schottisch-g\u00e4lisch"
@@ -824,7 +824,7 @@
                 "name": "Galician"
             },
             "de": {
-                "name": "Galicisch, Galegisch"
+                "name": "Galicisch"
             },
             "fr": {
                 "name": "Galicien"
@@ -885,7 +885,7 @@
         "code_alpha3_b": "gre",
         "translations": {
             "en": {
-                "name": "Greek, Modern\u00a0(1453\u2013)"
+                "name": "Greek"
             },
             "de": {
                 "name": "Griechisch"
@@ -901,10 +901,10 @@
         "code_alpha3_b": "kal",
         "translations": {
             "en": {
-                "name": "Kalaallisut, Greenlandic"
+                "name": "Kalaallisut"
             },
             "de": {
-                "name": "Gr\u00f6nl\u00e4ndisch, Kalaallisut"
+                "name": "Gr\u00f6nl\u00e4ndisch"
             },
             "fr": {
                 "name": "Groenlandais"
@@ -949,7 +949,7 @@
         "code_alpha3_b": "hat",
         "translations": {
             "en": {
-                "name": "Haitian, Haitian\u00a0Creole"
+                "name": "Haitian"
             },
             "de": {
                 "name": "Haitianisch-Kreolisch"
@@ -1141,7 +1141,7 @@
         "code_alpha3_b": "ile",
         "translations": {
             "en": {
-                "name": "Interlingue, Occidental"
+                "name": "Interlingue"
             },
             "de": {
                 "name": "Interlingue"
@@ -1333,7 +1333,7 @@
         "code_alpha3_b": "kik",
         "translations": {
             "en": {
-                "name": "Kikuyu, Gikuyu"
+                "name": "Kikuyu"
             },
             "de": {
                 "name": "Kikuyu"
@@ -1352,7 +1352,7 @@
                 "name": "Kinyarwanda"
             },
             "de": {
-                "name": "Kinyarwanda, Ruandisch"
+                "name": "Kinyarwanda"
             },
             "fr": {
                 "name": "Kinyarwanda"
@@ -1365,7 +1365,7 @@
         "code_alpha3_b": "kir",
         "translations": {
             "en": {
-                "name": "Kyrgyz, Kirghiz"
+                "name": "Kyrgyz"
             },
             "de": {
                 "name": "Kirgisisch"
@@ -1429,7 +1429,7 @@
         "code_alpha3_b": "kua",
         "translations": {
             "en": {
-                "name": "Kuanyama, Kwanyama"
+                "name": "Kuanyama"
             },
             "de": {
                 "name": "oshiKwanyama"
@@ -1509,10 +1509,10 @@
         "code_alpha3_b": "lim",
         "translations": {
             "en": {
-                "name": "Limburgan, Limburger, Limburgish"
+                "name": "Limburgan"
             },
             "de": {
-                "name": "Limburgisch, S\u00fcdniederfr\u00e4nkisch"
+                "name": "Limburgisch"
             },
             "fr": {
                 "name": "Limbourgeois"
@@ -1573,7 +1573,7 @@
         "code_alpha3_b": "ltz",
         "translations": {
             "en": {
-                "name": "Luxembourgish, Letzeburgesch"
+                "name": "Luxembourgish"
             },
             "de": {
                 "name": "Luxemburgisch"
@@ -1608,7 +1608,7 @@
                 "name": "Malagasy"
             },
             "de": {
-                "name": "Malagasy, Malagassi"
+                "name": "Malagasy"
             },
             "fr": {
                 "name": "Malgache"
@@ -1672,7 +1672,7 @@
                 "name": "Manx"
             },
             "de": {
-                "name": "Manx,Manx-G\u00e4lisch"
+                "name": "Manx"
             },
             "fr": {
                 "name": "Mannois"
@@ -1765,7 +1765,7 @@
         "code_alpha3_b": "nav",
         "translations": {
             "en": {
-                "name": "Navajo, Navaho"
+                "name": "Navajo"
             },
             "de": {
                 "name": "Navajo"
@@ -1957,7 +1957,7 @@
         "code_alpha3_b": "oss",
         "translations": {
             "en": {
-                "name": "Ossetian, Ossetic"
+                "name": "Ossetian"
             },
             "de": {
                 "name": "Ossetisch"
@@ -1989,7 +1989,7 @@
         "code_alpha3_b": "pus",
         "translations": {
             "en": {
-                "name": "Pashto, Pushto"
+                "name": "Pashto"
             },
             "de": {
                 "name": "Paschtunisch"
@@ -2053,10 +2053,10 @@
         "code_alpha3_b": "pan",
         "translations": {
             "en": {
-                "name": "Punjabi, Panjabi"
+                "name": "Punjabi"
             },
             "de": {
-                "name": "Panjabi, Pandschabi"
+                "name": "Panjabi"
             },
             "fr": {
                 "name": "Pendjabi"
@@ -2085,7 +2085,7 @@
         "code_alpha3_b": "rum",
         "translations": {
             "en": {
-                "name": "Romanian, Moldavian, Moldovan"
+                "name": "Romanian"
             },
             "de": {
                 "name": "Rum\u00e4nisch"
@@ -2104,7 +2104,7 @@
                 "name": "Romansh"
             },
             "de": {
-                "name": "B\u00fcndnerromanisch, Romanisch"
+                "name": "B\u00fcndnerromanisch"
             },
             "fr": {
                 "name": "Romanche"
@@ -2277,7 +2277,7 @@
         "code_alpha3_b": "sin",
         "translations": {
             "en": {
-                "name": "Sinhala, Sinhalese"
+                "name": "Sinhala"
             },
             "de": {
                 "name": "Singhalesisch"
@@ -2344,7 +2344,7 @@
                 "name": "Southern Sotho"
             },
             "de": {
-                "name": "Sesotho, S\u00fcd-Sotho"
+                "name": "Sesotho"
             },
             "fr": {
                 "name": "Sotho du Sud"
@@ -2357,10 +2357,10 @@
         "code_alpha3_b": "spa",
         "translations": {
             "en": {
-                "name": "Spanish, Castilian"
+                "name": "Spanish"
             },
             "de": {
-                "name": "Spanisch, Kastilisch"
+                "name": "Spanisch"
             },
             "fr": {
                 "name": "Espagnol"
@@ -2456,7 +2456,7 @@
                 "name": "Tahitian"
             },
             "de": {
-                "name": "Tahitianisch, Tahitisch"
+                "name": "Tahitianisch"
             },
             "fr": {
                 "name": "Tahitien"
@@ -2677,7 +2677,7 @@
         "code_alpha3_b": "uig",
         "translations": {
             "en": {
-                "name": "Uighur, Uyghur"
+                "name": "Uighur"
             },
             "de": {
                 "name": "Uigurisch"
@@ -2853,7 +2853,7 @@
         "code_alpha3_b": "iii",
         "translations": {
             "en": {
-                "name": "Sichuan Yi, Nuosu"
+                "name": "Sichuan Yi"
             },
             "de": {
                 "name": "Yi"
@@ -2901,7 +2901,7 @@
         "code_alpha3_b": "zha",
         "translations": {
             "en": {
-                "name": "Zhuang, Chuang"
+                "name": "Zhuang"
             },
             "de": {
                 "name": "Zhuang"
