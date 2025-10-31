@@ -1,0 +1,11 @@
+{
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    },
+    "editor.rulers": [
+        { "column": 120 }
+    ]
+}

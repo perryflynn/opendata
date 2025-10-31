@@ -1,0 +1,5480 @@
+[
+    {
+        "code_alpha2_uc": "AD",
+        "code_alpha2_lc": "ad",
+        "code_alpha3_uc": "AND",
+        "code_alpha3_lc": "and",
+        "code_numeric": 20,
+        "cctld": ".ad",
+        "translations": {
+            "en": {
+                "name": "Andorra",
+                "longname": null
+            },
+            "de": {
+                "name": "Andorra",
+                "longname": "das F\u00fcrstentum Andorra"
+            },
+            "fr": {
+                "name": "Andorre (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AE",
+        "code_alpha2_lc": "ae",
+        "code_alpha3_uc": "ARE",
+        "code_alpha3_lc": "are",
+        "code_numeric": 784,
+        "cctld": ".ae",
+        "translations": {
+            "en": {
+                "name": "United Arab Emirates",
+                "longname": null
+            },
+            "de": {
+                "name": "Vereinigte Arabische Emirate",
+                "longname": "die Vereinigten Arabischen Emirate (Abu Dhabi, Adschman, Dubai, Fudschaira, Ras al Chaima, Schardscha, Umm al Kaiwain)"
+            },
+            "fr": {
+                "name": "\u00c9mirats arabes unis (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AF",
+        "code_alpha2_lc": "af",
+        "code_alpha3_uc": "AFG",
+        "code_alpha3_lc": "afg",
+        "code_numeric": 4,
+        "cctld": ".af",
+        "translations": {
+            "en": {
+                "name": "Afghanistan",
+                "longname": null
+            },
+            "de": {
+                "name": "Afghanistan",
+                "longname": "die Islamische Republik Afghanistan"
+            },
+            "fr": {
+                "name": "Afghanistan (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AG",
+        "code_alpha2_lc": "ag",
+        "code_alpha3_uc": "ATG",
+        "code_alpha3_lc": "atg",
+        "code_numeric": 28,
+        "cctld": ".ag",
+        "translations": {
+            "en": {
+                "name": "Antigua and Barbuda",
+                "longname": null
+            },
+            "de": {
+                "name": "Antigua und Barbuda",
+                "longname": "Antigua und Barbuda"
+            },
+            "fr": {
+                "name": "Antigua-et-Barbuda",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AI",
+        "code_alpha2_lc": "ai",
+        "code_alpha3_uc": "AIA",
+        "code_alpha3_lc": "aia",
+        "code_numeric": 660,
+        "cctld": ".ai",
+        "translations": {
+            "en": {
+                "name": "Anguilla",
+                "longname": null
+            },
+            "de": {
+                "name": "Anguilla",
+                "longname": null
+            },
+            "fr": {
+                "name": "Anguilla",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AL",
+        "code_alpha2_lc": "al",
+        "code_alpha3_uc": "ALB",
+        "code_alpha3_lc": "alb",
+        "code_numeric": 8,
+        "cctld": ".al",
+        "translations": {
+            "en": {
+                "name": "Albania",
+                "longname": null
+            },
+            "de": {
+                "name": "Albanien",
+                "longname": "die Republik Albanien"
+            },
+            "fr": {
+                "name": "Albanie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AM",
+        "code_alpha2_lc": "am",
+        "code_alpha3_uc": "ARM",
+        "code_alpha3_lc": "arm",
+        "code_numeric": 51,
+        "cctld": ".am",
+        "translations": {
+            "en": {
+                "name": "Armenia",
+                "longname": null
+            },
+            "de": {
+                "name": "Armenien",
+                "longname": "die Republik Armenien"
+            },
+            "fr": {
+                "name": "Arm\u00e9nie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AO",
+        "code_alpha2_lc": "ao",
+        "code_alpha3_uc": "AGO",
+        "code_alpha3_lc": "ago",
+        "code_numeric": 24,
+        "cctld": ".ao",
+        "translations": {
+            "en": {
+                "name": "Angola",
+                "longname": null
+            },
+            "de": {
+                "name": "Angola",
+                "longname": "die Republik Angola"
+            },
+            "fr": {
+                "name": "Angola (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AQ",
+        "code_alpha2_lc": "aq",
+        "code_alpha3_uc": "ATA",
+        "code_alpha3_lc": "ata",
+        "code_numeric": 10,
+        "cctld": ".aq",
+        "translations": {
+            "en": {
+                "name": "Antarctica",
+                "longname": null
+            },
+            "de": {
+                "name": "Antarktis",
+                "longname": null
+            },
+            "fr": {
+                "name": "Antarctique (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AR",
+        "code_alpha2_lc": "ar",
+        "code_alpha3_uc": "ARG",
+        "code_alpha3_lc": "arg",
+        "code_numeric": 32,
+        "cctld": ".ar",
+        "translations": {
+            "en": {
+                "name": "Argentina",
+                "longname": null
+            },
+            "de": {
+                "name": "Argentinien",
+                "longname": "die Argentinische Republik"
+            },
+            "fr": {
+                "name": "Argentine (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AS",
+        "code_alpha2_lc": "as",
+        "code_alpha3_uc": "ASM",
+        "code_alpha3_lc": "asm",
+        "code_numeric": 16,
+        "cctld": ".as",
+        "translations": {
+            "en": {
+                "name": "American Samoa",
+                "longname": null
+            },
+            "de": {
+                "name": "Amerikanisch-Samoa",
+                "longname": null
+            },
+            "fr": {
+                "name": "Samoa am\u00e9ricaines (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AT",
+        "code_alpha2_lc": "at",
+        "code_alpha3_uc": "AUT",
+        "code_alpha3_lc": "aut",
+        "code_numeric": 40,
+        "cctld": ".at",
+        "translations": {
+            "en": {
+                "name": "Austria",
+                "longname": null
+            },
+            "de": {
+                "name": "\u00d6sterreich",
+                "longname": "die Republik \u00d6sterreich"
+            },
+            "fr": {
+                "name": "Autriche (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AU",
+        "code_alpha2_lc": "au",
+        "code_alpha3_uc": "AUS",
+        "code_alpha3_lc": "aus",
+        "code_numeric": 36,
+        "cctld": ".au",
+        "translations": {
+            "en": {
+                "name": "Australia",
+                "longname": null
+            },
+            "de": {
+                "name": "Australien",
+                "longname": "Australien"
+            },
+            "fr": {
+                "name": "Australie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AW",
+        "code_alpha2_lc": "aw",
+        "code_alpha3_uc": "ABW",
+        "code_alpha3_lc": "abw",
+        "code_numeric": 533,
+        "cctld": ".aw",
+        "translations": {
+            "en": {
+                "name": "Aruba",
+                "longname": null
+            },
+            "de": {
+                "name": "Aruba",
+                "longname": null
+            },
+            "fr": {
+                "name": "Aruba",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AX",
+        "code_alpha2_lc": "ax",
+        "code_alpha3_uc": "ALA",
+        "code_alpha3_lc": "ala",
+        "code_numeric": 248,
+        "cctld": ".ax",
+        "translations": {
+            "en": {
+                "name": "\u00c5land Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "\u00c5landinseln",
+                "longname": null
+            },
+            "fr": {
+                "name": "\u00c5land(les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "AZ",
+        "code_alpha2_lc": "az",
+        "code_alpha3_uc": "AZE",
+        "code_alpha3_lc": "aze",
+        "code_numeric": 31,
+        "cctld": ".az",
+        "translations": {
+            "en": {
+                "name": "Azerbaijan",
+                "longname": null
+            },
+            "de": {
+                "name": "Aserbaidschan",
+                "longname": "die Republik Aserbaidschan"
+            },
+            "fr": {
+                "name": "Azerba\u00efdjan (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BA",
+        "code_alpha2_lc": "ba",
+        "code_alpha3_uc": "BIH",
+        "code_alpha3_lc": "bih",
+        "code_numeric": 70,
+        "cctld": ".ba",
+        "translations": {
+            "en": {
+                "name": "Bosnia and Herzegovina",
+                "longname": null
+            },
+            "de": {
+                "name": "Bosnien und Herzegowina",
+                "longname": "Bosnien und Herzegowina"
+            },
+            "fr": {
+                "name": "Bosnie-Herz\u00e9govine (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BB",
+        "code_alpha2_lc": "bb",
+        "code_alpha3_uc": "BRB",
+        "code_alpha3_lc": "brb",
+        "code_numeric": 52,
+        "cctld": ".bb",
+        "translations": {
+            "en": {
+                "name": "Barbados",
+                "longname": null
+            },
+            "de": {
+                "name": "Barbados",
+                "longname": "Barbados"
+            },
+            "fr": {
+                "name": "Barbade (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BD",
+        "code_alpha2_lc": "bd",
+        "code_alpha3_uc": "BGD",
+        "code_alpha3_lc": "bgd",
+        "code_numeric": 50,
+        "cctld": ".bd",
+        "translations": {
+            "en": {
+                "name": "Bangladesh",
+                "longname": null
+            },
+            "de": {
+                "name": "Bangladesch",
+                "longname": "die Volksrepublik Bangladesch"
+            },
+            "fr": {
+                "name": "Bangladesh (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BE",
+        "code_alpha2_lc": "be",
+        "code_alpha3_uc": "BEL",
+        "code_alpha3_lc": "bel",
+        "code_numeric": 56,
+        "cctld": ".be",
+        "translations": {
+            "en": {
+                "name": "Belgium",
+                "longname": null
+            },
+            "de": {
+                "name": "Belgien",
+                "longname": "das K\u00f6nigreich Belgien"
+            },
+            "fr": {
+                "name": "Belgique (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BF",
+        "code_alpha2_lc": "bf",
+        "code_alpha3_uc": "BFA",
+        "code_alpha3_lc": "bfa",
+        "code_numeric": 854,
+        "cctld": ".bf",
+        "translations": {
+            "en": {
+                "name": "Burkina Faso",
+                "longname": null
+            },
+            "de": {
+                "name": "Burkina Faso",
+                "longname": "Burkina Faso"
+            },
+            "fr": {
+                "name": "Burkina Faso (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BG",
+        "code_alpha2_lc": "bg",
+        "code_alpha3_uc": "BGR",
+        "code_alpha3_lc": "bgr",
+        "code_numeric": 100,
+        "cctld": ".bg",
+        "translations": {
+            "en": {
+                "name": "Bulgaria",
+                "longname": null
+            },
+            "de": {
+                "name": "Bulgarien",
+                "longname": "die Republik Bulgarien"
+            },
+            "fr": {
+                "name": "Bulgarie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BH",
+        "code_alpha2_lc": "bh",
+        "code_alpha3_uc": "BHR",
+        "code_alpha3_lc": "bhr",
+        "code_numeric": 48,
+        "cctld": ".bh",
+        "translations": {
+            "en": {
+                "name": "Bahrain",
+                "longname": null
+            },
+            "de": {
+                "name": "Bahrain",
+                "longname": "das K\u00f6nigreich Bahrain"
+            },
+            "fr": {
+                "name": "Bahre\u00efn",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BI",
+        "code_alpha2_lc": "bi",
+        "code_alpha3_uc": "BDI",
+        "code_alpha3_lc": "bdi",
+        "code_numeric": 108,
+        "cctld": ".bi",
+        "translations": {
+            "en": {
+                "name": "Burundi",
+                "longname": null
+            },
+            "de": {
+                "name": "Burundi",
+                "longname": "die Republik Burundi"
+            },
+            "fr": {
+                "name": "Burundi (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BJ",
+        "code_alpha2_lc": "bj",
+        "code_alpha3_uc": "BEN",
+        "code_alpha3_lc": "ben",
+        "code_numeric": 204,
+        "cctld": ".bj",
+        "translations": {
+            "en": {
+                "name": "Benin",
+                "longname": null
+            },
+            "de": {
+                "name": "Benin",
+                "longname": "die Republik Benin"
+            },
+            "fr": {
+                "name": "B\u00e9nin (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BL",
+        "code_alpha2_lc": "bl",
+        "code_alpha3_uc": "BLM",
+        "code_alpha3_lc": "blm",
+        "code_numeric": 652,
+        "cctld": ".bl",
+        "translations": {
+            "en": {
+                "name": "Saint Barth\u00e9lemy",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Barth\u00e9lemy",
+                "longname": null
+            },
+            "fr": {
+                "name": "Saint-Barth\u00e9lemy",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BM",
+        "code_alpha2_lc": "bm",
+        "code_alpha3_uc": "BMU",
+        "code_alpha3_lc": "bmu",
+        "code_numeric": 60,
+        "cctld": ".bm",
+        "translations": {
+            "en": {
+                "name": "Bermuda",
+                "longname": null
+            },
+            "de": {
+                "name": "Bermuda",
+                "longname": null
+            },
+            "fr": {
+                "name": "Bermudes (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BN",
+        "code_alpha2_lc": "bn",
+        "code_alpha3_uc": "BRN",
+        "code_alpha3_lc": "brn",
+        "code_numeric": 96,
+        "cctld": ".bn",
+        "translations": {
+            "en": {
+                "name": "Brunei Darussalam",
+                "longname": null
+            },
+            "de": {
+                "name": "Brunei Darussalam",
+                "longname": "Brunei Darussalam"
+            },
+            "fr": {
+                "name": "Brun\u00e9i Darussalam (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BO",
+        "code_alpha2_lc": "bo",
+        "code_alpha3_uc": "BOL",
+        "code_alpha3_lc": "bol",
+        "code_numeric": 68,
+        "cctld": ".bo",
+        "translations": {
+            "en": {
+                "name": "Bolivia, Plurinational State of",
+                "longname": null
+            },
+            "de": {
+                "name": "Plurinationaler Staat Bolivien",
+                "longname": "der Plurinationale Staat Bolivien"
+            },
+            "fr": {
+                "name": "Bolivie (\u00c9tat plurinational de)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BQ",
+        "code_alpha2_lc": "bq",
+        "code_alpha3_uc": "BES",
+        "code_alpha3_lc": "bes",
+        "code_numeric": 535,
+        "cctld": ".bq",
+        "translations": {
+            "en": {
+                "name": "Bonaire, Sint Eustatius and Saba",
+                "longname": null
+            },
+            "de": {
+                "name": "Bonaire, St. Eustatius und Saba",
+                "longname": null
+            },
+            "fr": {
+                "name": "Bonaire, Saint-Eustache et Saba",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BR",
+        "code_alpha2_lc": "br",
+        "code_alpha3_uc": "BRA",
+        "code_alpha3_lc": "bra",
+        "code_numeric": 76,
+        "cctld": ".br",
+        "translations": {
+            "en": {
+                "name": "Brazil",
+                "longname": null
+            },
+            "de": {
+                "name": "Brasilien",
+                "longname": "die F\u00f6derative Republik Brasilien"
+            },
+            "fr": {
+                "name": "Br\u00e9sil (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BS",
+        "code_alpha2_lc": "bs",
+        "code_alpha3_uc": "BHS",
+        "code_alpha3_lc": "bhs",
+        "code_numeric": 44,
+        "cctld": ".bs",
+        "translations": {
+            "en": {
+                "name": "Bahamas",
+                "longname": null
+            },
+            "de": {
+                "name": "Bahamas",
+                "longname": "das Commonwealth der Bahamas"
+            },
+            "fr": {
+                "name": "Bahamas (Les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BT",
+        "code_alpha2_lc": "bt",
+        "code_alpha3_uc": "BTN",
+        "code_alpha3_lc": "btn",
+        "code_numeric": 64,
+        "cctld": ".bt",
+        "translations": {
+            "en": {
+                "name": "Bhutan",
+                "longname": null
+            },
+            "de": {
+                "name": "Bhutan",
+                "longname": "das K\u00f6nigreich Bhutan"
+            },
+            "fr": {
+                "name": "Bhoutan (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BV",
+        "code_alpha2_lc": "bv",
+        "code_alpha3_uc": "BVT",
+        "code_alpha3_lc": "bvt",
+        "code_numeric": 74,
+        "cctld": ".bv",
+        "translations": {
+            "en": {
+                "name": "Bouvet Island",
+                "longname": null
+            },
+            "de": {
+                "name": "Bouvetinsel",
+                "longname": null
+            },
+            "fr": {
+                "name": "Bouvet (l'\u00cele)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BW",
+        "code_alpha2_lc": "bw",
+        "code_alpha3_uc": "BWA",
+        "code_alpha3_lc": "bwa",
+        "code_numeric": 72,
+        "cctld": ".bw",
+        "translations": {
+            "en": {
+                "name": "Botswana",
+                "longname": null
+            },
+            "de": {
+                "name": "Botsuana",
+                "longname": "die Republik Botsuana"
+            },
+            "fr": {
+                "name": "Botswana (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BY",
+        "code_alpha2_lc": "by",
+        "code_alpha3_uc": "BLR",
+        "code_alpha3_lc": "blr",
+        "code_numeric": 112,
+        "cctld": ".by",
+        "translations": {
+            "en": {
+                "name": "Belarus",
+                "longname": null
+            },
+            "de": {
+                "name": "Belarus",
+                "longname": "die Republik Belarus"
+            },
+            "fr": {
+                "name": "B\u00e9larus (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "BZ",
+        "code_alpha2_lc": "bz",
+        "code_alpha3_uc": "BLZ",
+        "code_alpha3_lc": "blz",
+        "code_numeric": 84,
+        "cctld": ".bz",
+        "translations": {
+            "en": {
+                "name": "Belize",
+                "longname": null
+            },
+            "de": {
+                "name": "Belize",
+                "longname": "Belize"
+            },
+            "fr": {
+                "name": "Belize (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CA",
+        "code_alpha2_lc": "ca",
+        "code_alpha3_uc": "CAN",
+        "code_alpha3_lc": "can",
+        "code_numeric": 124,
+        "cctld": ".ca",
+        "translations": {
+            "en": {
+                "name": "Canada",
+                "longname": null
+            },
+            "de": {
+                "name": "Kanada",
+                "longname": "Kanada"
+            },
+            "fr": {
+                "name": "Canada (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CC",
+        "code_alpha2_lc": "cc",
+        "code_alpha3_uc": "CCK",
+        "code_alpha3_lc": "cck",
+        "code_numeric": 166,
+        "cctld": ".cc",
+        "translations": {
+            "en": {
+                "name": "Cocos (Keeling) Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Kokosinseln (Keeling)",
+                "longname": null
+            },
+            "fr": {
+                "name": "Cocos (les\u00a0\u00celes)/ Keeling (les\u00a0\u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CD",
+        "code_alpha2_lc": "cd",
+        "code_alpha3_uc": "COD",
+        "code_alpha3_lc": "cod",
+        "code_numeric": 180,
+        "cctld": ".cd",
+        "translations": {
+            "en": {
+                "name": "Congo, Democratic Republic of the",
+                "longname": null
+            },
+            "de": {
+                "name": "Demokratische Republik Kongo",
+                "longname": "die Demokratische Republik Kongo"
+            },
+            "fr": {
+                "name": "Congo (la R\u00e9publique d\u00e9mocratique du)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CF",
+        "code_alpha2_lc": "cf",
+        "code_alpha3_uc": "CAF",
+        "code_alpha3_lc": "caf",
+        "code_numeric": 140,
+        "cctld": ".cf",
+        "translations": {
+            "en": {
+                "name": "Central African Republic",
+                "longname": null
+            },
+            "de": {
+                "name": "Zentralafrikanische Republik",
+                "longname": "die Zentralafrikanische Republik"
+            },
+            "fr": {
+                "name": "R\u00e9publique centrafricaine (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CG",
+        "code_alpha2_lc": "cg",
+        "code_alpha3_uc": "COG",
+        "code_alpha3_lc": "cog",
+        "code_numeric": 178,
+        "cctld": ".cg",
+        "translations": {
+            "en": {
+                "name": "Congo",
+                "longname": null
+            },
+            "de": {
+                "name": "Kongo",
+                "longname": "die Republik Kongo"
+            },
+            "fr": {
+                "name": "Congo (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CH",
+        "code_alpha2_lc": "ch",
+        "code_alpha3_uc": "CHE",
+        "code_alpha3_lc": "che",
+        "code_numeric": 756,
+        "cctld": ".ch",
+        "translations": {
+            "en": {
+                "name": "Switzerland",
+                "longname": null
+            },
+            "de": {
+                "name": "Schweiz",
+                "longname": "die Schweizerische Eidgenossenschaft"
+            },
+            "fr": {
+                "name": "Suisse (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CI",
+        "code_alpha2_lc": "ci",
+        "code_alpha3_uc": "CIV",
+        "code_alpha3_lc": "civ",
+        "code_numeric": 384,
+        "cctld": ".ci",
+        "translations": {
+            "en": {
+                "name": "C\u00f4te d'Ivoire",
+                "longname": null
+            },
+            "de": {
+                "name": "C\u00f4te d\u2019Ivoire",
+                "longname": "die Republik C\u00f4te d\u2019Ivoire"
+            },
+            "fr": {
+                "name": "C\u00f4te d'Ivoire (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CK",
+        "code_alpha2_lc": "ck",
+        "code_alpha3_uc": "COK",
+        "code_alpha3_lc": "cok",
+        "code_numeric": 184,
+        "cctld": ".ck",
+        "translations": {
+            "en": {
+                "name": "Cook Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Cookinseln",
+                "longname": "die Cookinseln"
+            },
+            "fr": {
+                "name": "Cook (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CL",
+        "code_alpha2_lc": "cl",
+        "code_alpha3_uc": "CHL",
+        "code_alpha3_lc": "chl",
+        "code_numeric": 152,
+        "cctld": ".cl",
+        "translations": {
+            "en": {
+                "name": "Chile",
+                "longname": null
+            },
+            "de": {
+                "name": "Chile",
+                "longname": "die Republik Chile"
+            },
+            "fr": {
+                "name": "Chili (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CM",
+        "code_alpha2_lc": "cm",
+        "code_alpha3_uc": "CMR",
+        "code_alpha3_lc": "cmr",
+        "code_numeric": 120,
+        "cctld": ".cm",
+        "translations": {
+            "en": {
+                "name": "Cameroon",
+                "longname": null
+            },
+            "de": {
+                "name": "Kamerun",
+                "longname": "die Republik Kamerun"
+            },
+            "fr": {
+                "name": "Cameroun (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CN",
+        "code_alpha2_lc": "cn",
+        "code_alpha3_uc": "CHN",
+        "code_alpha3_lc": "chn",
+        "code_numeric": 156,
+        "cctld": ".cn",
+        "translations": {
+            "en": {
+                "name": "China",
+                "longname": null
+            },
+            "de": {
+                "name": "China",
+                "longname": "die Volksrepublik China"
+            },
+            "fr": {
+                "name": "Chine (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CO",
+        "code_alpha2_lc": "co",
+        "code_alpha3_uc": "COL",
+        "code_alpha3_lc": "col",
+        "code_numeric": 170,
+        "cctld": ".co",
+        "translations": {
+            "en": {
+                "name": "Colombia",
+                "longname": null
+            },
+            "de": {
+                "name": "Kolumbien",
+                "longname": "die Republik Kolumbien"
+            },
+            "fr": {
+                "name": "Colombie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CR",
+        "code_alpha2_lc": "cr",
+        "code_alpha3_uc": "CRI",
+        "code_alpha3_lc": "cri",
+        "code_numeric": 188,
+        "cctld": ".cr",
+        "translations": {
+            "en": {
+                "name": "Costa Rica",
+                "longname": null
+            },
+            "de": {
+                "name": "Costa Rica",
+                "longname": "die Republik Costa Rica"
+            },
+            "fr": {
+                "name": "Costa Rica (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CU",
+        "code_alpha2_lc": "cu",
+        "code_alpha3_uc": "CUB",
+        "code_alpha3_lc": "cub",
+        "code_numeric": 192,
+        "cctld": ".cu",
+        "translations": {
+            "en": {
+                "name": "Cuba",
+                "longname": null
+            },
+            "de": {
+                "name": "Kuba",
+                "longname": "die Republik Kuba"
+            },
+            "fr": {
+                "name": "Cuba",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CV",
+        "code_alpha2_lc": "cv",
+        "code_alpha3_uc": "CPV",
+        "code_alpha3_lc": "cpv",
+        "code_numeric": 132,
+        "cctld": ".cv",
+        "translations": {
+            "en": {
+                "name": "Cabo Verde",
+                "longname": null
+            },
+            "de": {
+                "name": "Cabo Verde",
+                "longname": "die Republik Cabo Verde"
+            },
+            "fr": {
+                "name": "Cabo Verde",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CW",
+        "code_alpha2_lc": "cw",
+        "code_alpha3_uc": "CUW",
+        "code_alpha3_lc": "cuw",
+        "code_numeric": 531,
+        "cctld": ".cw",
+        "translations": {
+            "en": {
+                "name": "Cura\u00e7ao",
+                "longname": null
+            },
+            "de": {
+                "name": "Cura\u00e7ao",
+                "longname": null
+            },
+            "fr": {
+                "name": "Cura\u00e7ao",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CX",
+        "code_alpha2_lc": "cx",
+        "code_alpha3_uc": "CXR",
+        "code_alpha3_lc": "cxr",
+        "code_numeric": 162,
+        "cctld": ".cx",
+        "translations": {
+            "en": {
+                "name": "Christmas Island",
+                "longname": null
+            },
+            "de": {
+                "name": "Weihnachtsinsel",
+                "longname": "Territorium Weihnachtsinsel"
+            },
+            "fr": {
+                "name": "Christmas (l'\u00cele)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CY",
+        "code_alpha2_lc": "cy",
+        "code_alpha3_uc": "CYP",
+        "code_alpha3_lc": "cyp",
+        "code_numeric": 196,
+        "cctld": ".cy",
+        "translations": {
+            "en": {
+                "name": "Cyprus",
+                "longname": null
+            },
+            "de": {
+                "name": "Zypern",
+                "longname": "die Republik Zypern"
+            },
+            "fr": {
+                "name": "Chypre",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "CZ",
+        "code_alpha2_lc": "cz",
+        "code_alpha3_uc": "CZE",
+        "code_alpha3_lc": "cze",
+        "code_numeric": 203,
+        "cctld": ".cz",
+        "translations": {
+            "en": {
+                "name": "Czechia",
+                "longname": null
+            },
+            "de": {
+                "name": "Tschechien",
+                "longname": "die Tschechische Republik"
+            },
+            "fr": {
+                "name": "Tch\u00e9quie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "DE",
+        "code_alpha2_lc": "de",
+        "code_alpha3_uc": "DEU",
+        "code_alpha3_lc": "deu",
+        "code_numeric": 276,
+        "cctld": ".de",
+        "translations": {
+            "en": {
+                "name": "Germany",
+                "longname": null
+            },
+            "de": {
+                "name": "Deutschland",
+                "longname": "die Bundesrepublik Deutschland"
+            },
+            "fr": {
+                "name": "Allemagne (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "DJ",
+        "code_alpha2_lc": "dj",
+        "code_alpha3_uc": "DJI",
+        "code_alpha3_lc": "dji",
+        "code_numeric": 262,
+        "cctld": ".dj",
+        "translations": {
+            "en": {
+                "name": "Djibouti",
+                "longname": null
+            },
+            "de": {
+                "name": "Dschibuti",
+                "longname": "die Republik Dschibuti"
+            },
+            "fr": {
+                "name": "Djibouti",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "DK",
+        "code_alpha2_lc": "dk",
+        "code_alpha3_uc": "DNK",
+        "code_alpha3_lc": "dnk",
+        "code_numeric": 208,
+        "cctld": ".dk",
+        "translations": {
+            "en": {
+                "name": "Denmark",
+                "longname": null
+            },
+            "de": {
+                "name": "D\u00e4nemark",
+                "longname": "das K\u00f6nigreich D\u00e4nemark"
+            },
+            "fr": {
+                "name": "Danemark (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "DM",
+        "code_alpha2_lc": "dm",
+        "code_alpha3_uc": "DMA",
+        "code_alpha3_lc": "dma",
+        "code_numeric": 212,
+        "cctld": ".dm",
+        "translations": {
+            "en": {
+                "name": "Dominica",
+                "longname": null
+            },
+            "de": {
+                "name": "Dominica",
+                "longname": "das Commonwealth Dominica"
+            },
+            "fr": {
+                "name": "Dominique (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "DO",
+        "code_alpha2_lc": "do",
+        "code_alpha3_uc": "DOM",
+        "code_alpha3_lc": "dom",
+        "code_numeric": 214,
+        "cctld": ".do",
+        "translations": {
+            "en": {
+                "name": "Dominican Republic",
+                "longname": null
+            },
+            "de": {
+                "name": "Dominikanische Republik",
+                "longname": "die Dominikanische Republik"
+            },
+            "fr": {
+                "name": "dominicaine (la\u00a0R\u00e9publique)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "DZ",
+        "code_alpha2_lc": "dz",
+        "code_alpha3_uc": "DZA",
+        "code_alpha3_lc": "dza",
+        "code_numeric": 12,
+        "cctld": ".dz",
+        "translations": {
+            "en": {
+                "name": "Algeria",
+                "longname": null
+            },
+            "de": {
+                "name": "Algerien",
+                "longname": "die Demokratische Volksrepublik Algerien"
+            },
+            "fr": {
+                "name": "Alg\u00e9rie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "EC",
+        "code_alpha2_lc": "ec",
+        "code_alpha3_uc": "ECU",
+        "code_alpha3_lc": "ecu",
+        "code_numeric": 218,
+        "cctld": ".ec",
+        "translations": {
+            "en": {
+                "name": "Ecuador",
+                "longname": null
+            },
+            "de": {
+                "name": "Ecuador",
+                "longname": "die Republik Ecuador"
+            },
+            "fr": {
+                "name": "\u00c9quateur (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "EE",
+        "code_alpha2_lc": "ee",
+        "code_alpha3_uc": "EST",
+        "code_alpha3_lc": "est",
+        "code_numeric": 233,
+        "cctld": ".ee",
+        "translations": {
+            "en": {
+                "name": "Estonia",
+                "longname": null
+            },
+            "de": {
+                "name": "Estland",
+                "longname": "die Republik Estland"
+            },
+            "fr": {
+                "name": "Estonie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "EG",
+        "code_alpha2_lc": "eg",
+        "code_alpha3_uc": "EGY",
+        "code_alpha3_lc": "egy",
+        "code_numeric": 818,
+        "cctld": ".eg",
+        "translations": {
+            "en": {
+                "name": "Egypt",
+                "longname": null
+            },
+            "de": {
+                "name": "\u00c4gypten",
+                "longname": "die Arabische Republik \u00c4gypten"
+            },
+            "fr": {
+                "name": "\u00c9gypte (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "EH",
+        "code_alpha2_lc": "eh",
+        "code_alpha3_uc": "ESH",
+        "code_alpha3_lc": "esh",
+        "code_numeric": 732,
+        "cctld": ".eh",
+        "translations": {
+            "en": {
+                "name": "Western Sahara",
+                "longname": null
+            },
+            "de": {
+                "name": "Westsahara",
+                "longname": null
+            },
+            "fr": {
+                "name": "Sahara occidental (le)*",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ER",
+        "code_alpha2_lc": "er",
+        "code_alpha3_uc": "ERI",
+        "code_alpha3_lc": "eri",
+        "code_numeric": 232,
+        "cctld": ".er",
+        "translations": {
+            "en": {
+                "name": "Eritrea",
+                "longname": null
+            },
+            "de": {
+                "name": "Eritrea",
+                "longname": "der Staat Eritrea"
+            },
+            "fr": {
+                "name": "\u00c9rythr\u00e9e (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ES",
+        "code_alpha2_lc": "es",
+        "code_alpha3_uc": "ESP",
+        "code_alpha3_lc": "esp",
+        "code_numeric": 724,
+        "cctld": ".es",
+        "translations": {
+            "en": {
+                "name": "Spain",
+                "longname": null
+            },
+            "de": {
+                "name": "Spanien",
+                "longname": "das K\u00f6nigreich Spanien"
+            },
+            "fr": {
+                "name": "Espagne (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ET",
+        "code_alpha2_lc": "et",
+        "code_alpha3_uc": "ETH",
+        "code_alpha3_lc": "eth",
+        "code_numeric": 231,
+        "cctld": ".et",
+        "translations": {
+            "en": {
+                "name": "Ethiopia",
+                "longname": null
+            },
+            "de": {
+                "name": "\u00c4thiopien",
+                "longname": "die Demokratische Bundesrepublik \u00c4thiopien"
+            },
+            "fr": {
+                "name": "\u00c9thiopie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "FI",
+        "code_alpha2_lc": "fi",
+        "code_alpha3_uc": "FIN",
+        "code_alpha3_lc": "fin",
+        "code_numeric": 246,
+        "cctld": ".fi",
+        "translations": {
+            "en": {
+                "name": "Finland",
+                "longname": null
+            },
+            "de": {
+                "name": "Finnland",
+                "longname": "die Republik Finnland"
+            },
+            "fr": {
+                "name": "Finlande (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "FJ",
+        "code_alpha2_lc": "fj",
+        "code_alpha3_uc": "FJI",
+        "code_alpha3_lc": "fji",
+        "code_numeric": 242,
+        "cctld": ".fj",
+        "translations": {
+            "en": {
+                "name": "Fiji",
+                "longname": null
+            },
+            "de": {
+                "name": "Fidschi",
+                "longname": "die Republik Fidschi"
+            },
+            "fr": {
+                "name": "Fidji (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "FK",
+        "code_alpha2_lc": "fk",
+        "code_alpha3_uc": "FLK",
+        "code_alpha3_lc": "flk",
+        "code_numeric": 238,
+        "cctld": ".fk",
+        "translations": {
+            "en": {
+                "name": "Falkland Islands (Malvinas)",
+                "longname": null
+            },
+            "de": {
+                "name": "Falklandinseln (Malwinen)",
+                "longname": null
+            },
+            "fr": {
+                "name": "Falkland (les \u00celes)/Malouines (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "FM",
+        "code_alpha2_lc": "fm",
+        "code_alpha3_uc": "FSM",
+        "code_alpha3_lc": "fsm",
+        "code_numeric": 583,
+        "cctld": ".fm",
+        "translations": {
+            "en": {
+                "name": "Micronesia, Federated States of",
+                "longname": null
+            },
+            "de": {
+                "name": "F\u00f6derierte Staaten von Mikronesien",
+                "longname": "die F\u00f6derierten Staaten von Mikronesien"
+            },
+            "fr": {
+                "name": "Micron\u00e9sie (\u00c9tats f\u00e9d\u00e9r\u00e9s de)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "FO",
+        "code_alpha2_lc": "fo",
+        "code_alpha3_uc": "FRO",
+        "code_alpha3_lc": "fro",
+        "code_numeric": 234,
+        "cctld": ".fo",
+        "translations": {
+            "en": {
+                "name": "Faroe Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "F\u00e4r\u00f6er",
+                "longname": null
+            },
+            "fr": {
+                "name": "F\u00e9ro\u00e9 (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "FR",
+        "code_alpha2_lc": "fr",
+        "code_alpha3_uc": "FRA",
+        "code_alpha3_lc": "fra",
+        "code_numeric": 250,
+        "cctld": ".fr",
+        "translations": {
+            "en": {
+                "name": "France",
+                "longname": null
+            },
+            "de": {
+                "name": "Frankreich",
+                "longname": "die Franz\u00f6sische Republik"
+            },
+            "fr": {
+                "name": "France (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GA",
+        "code_alpha2_lc": "ga",
+        "code_alpha3_uc": "GAB",
+        "code_alpha3_lc": "gab",
+        "code_numeric": 266,
+        "cctld": ".ga",
+        "translations": {
+            "en": {
+                "name": "Gabon",
+                "longname": null
+            },
+            "de": {
+                "name": "Gabun",
+                "longname": "die Gabunische Republik"
+            },
+            "fr": {
+                "name": "Gabon (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GB",
+        "code_alpha2_lc": "gb",
+        "code_alpha3_uc": "GBR",
+        "code_alpha3_lc": "gbr",
+        "code_numeric": 826,
+        "cctld": ".gb(.uk)",
+        "translations": {
+            "en": {
+                "name": "United Kingdom of Great Britain and Northern Ireland",
+                "longname": null
+            },
+            "de": {
+                "name": "Vereinigtes K\u00f6nigreich",
+                "longname": "das Vereinigte K\u00f6nigreich Gro\u00dfbritannien und Nordirland"
+            },
+            "fr": {
+                "name": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GD",
+        "code_alpha2_lc": "gd",
+        "code_alpha3_uc": "GRD",
+        "code_alpha3_lc": "grd",
+        "code_numeric": 308,
+        "cctld": ".gd",
+        "translations": {
+            "en": {
+                "name": "Grenada",
+                "longname": null
+            },
+            "de": {
+                "name": "Grenada",
+                "longname": "Grenada"
+            },
+            "fr": {
+                "name": "Grenade (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GE",
+        "code_alpha2_lc": "ge",
+        "code_alpha3_uc": "GEO",
+        "code_alpha3_lc": "geo",
+        "code_numeric": 268,
+        "cctld": ".ge",
+        "translations": {
+            "en": {
+                "name": "Georgia",
+                "longname": null
+            },
+            "de": {
+                "name": "Georgien",
+                "longname": "Georgien"
+            },
+            "fr": {
+                "name": "G\u00e9orgie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GF",
+        "code_alpha2_lc": "gf",
+        "code_alpha3_uc": "GUF",
+        "code_alpha3_lc": "guf",
+        "code_numeric": 254,
+        "cctld": ".gf",
+        "translations": {
+            "en": {
+                "name": "French Guiana",
+                "longname": null
+            },
+            "de": {
+                "name": "Franz\u00f6sisch-Guayana",
+                "longname": null
+            },
+            "fr": {
+                "name": "Guyane fran\u00e7aise (la\u00a0)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GG",
+        "code_alpha2_lc": "gg",
+        "code_alpha3_uc": "GGY",
+        "code_alpha3_lc": "ggy",
+        "code_numeric": 831,
+        "cctld": ".gg",
+        "translations": {
+            "en": {
+                "name": "Guernsey",
+                "longname": null
+            },
+            "de": {
+                "name": "Guernsey",
+                "longname": null
+            },
+            "fr": {
+                "name": "Guernesey",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GH",
+        "code_alpha2_lc": "gh",
+        "code_alpha3_uc": "GHA",
+        "code_alpha3_lc": "gha",
+        "code_numeric": 288,
+        "cctld": ".gh",
+        "translations": {
+            "en": {
+                "name": "Ghana",
+                "longname": null
+            },
+            "de": {
+                "name": "Ghana",
+                "longname": "die Republik Ghana"
+            },
+            "fr": {
+                "name": "Ghana (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GI",
+        "code_alpha2_lc": "gi",
+        "code_alpha3_uc": "GIB",
+        "code_alpha3_lc": "gib",
+        "code_numeric": 292,
+        "cctld": ".gi",
+        "translations": {
+            "en": {
+                "name": "Gibraltar",
+                "longname": null
+            },
+            "de": {
+                "name": "Gibraltar",
+                "longname": null
+            },
+            "fr": {
+                "name": "Gibraltar",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GL",
+        "code_alpha2_lc": "gl",
+        "code_alpha3_uc": "GRL",
+        "code_alpha3_lc": "grl",
+        "code_numeric": 304,
+        "cctld": ".gl",
+        "translations": {
+            "en": {
+                "name": "Greenland",
+                "longname": null
+            },
+            "de": {
+                "name": "Gr\u00f6nland",
+                "longname": null
+            },
+            "fr": {
+                "name": "Groenland (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GM",
+        "code_alpha2_lc": "gm",
+        "code_alpha3_uc": "GMB",
+        "code_alpha3_lc": "gmb",
+        "code_numeric": 270,
+        "cctld": ".gm",
+        "translations": {
+            "en": {
+                "name": "Gambia",
+                "longname": null
+            },
+            "de": {
+                "name": "Gambia",
+                "longname": "die Republik Gambia"
+            },
+            "fr": {
+                "name": "Gambie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GN",
+        "code_alpha2_lc": "gn",
+        "code_alpha3_uc": "GIN",
+        "code_alpha3_lc": "gin",
+        "code_numeric": 324,
+        "cctld": ".gn",
+        "translations": {
+            "en": {
+                "name": "Guinea",
+                "longname": null
+            },
+            "de": {
+                "name": "Guinea",
+                "longname": "die Republik Guinea"
+            },
+            "fr": {
+                "name": "Guin\u00e9e (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GP",
+        "code_alpha2_lc": "gp",
+        "code_alpha3_uc": "GLP",
+        "code_alpha3_lc": "glp",
+        "code_numeric": 312,
+        "cctld": ".gp",
+        "translations": {
+            "en": {
+                "name": "Guadeloupe",
+                "longname": null
+            },
+            "de": {
+                "name": "Guadeloupe",
+                "longname": null
+            },
+            "fr": {
+                "name": "Guadeloupe (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GQ",
+        "code_alpha2_lc": "gq",
+        "code_alpha3_uc": "GNQ",
+        "code_alpha3_lc": "gnq",
+        "code_numeric": 226,
+        "cctld": ".gq",
+        "translations": {
+            "en": {
+                "name": "Equatorial Guinea",
+                "longname": null
+            },
+            "de": {
+                "name": "\u00c4quatorialguinea",
+                "longname": "die Republik \u00c4quatorialguinea"
+            },
+            "fr": {
+                "name": "Guin\u00e9e \u00e9quatoriale (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GR",
+        "code_alpha2_lc": "gr",
+        "code_alpha3_uc": "GRC",
+        "code_alpha3_lc": "grc",
+        "code_numeric": 300,
+        "cctld": ".gr",
+        "translations": {
+            "en": {
+                "name": "Greece",
+                "longname": null
+            },
+            "de": {
+                "name": "Griechenland",
+                "longname": "die Hellenische Republik"
+            },
+            "fr": {
+                "name": "Gr\u00e8ce (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GS",
+        "code_alpha2_lc": "gs",
+        "code_alpha3_uc": "SGS",
+        "code_alpha3_lc": "sgs",
+        "code_numeric": 239,
+        "cctld": ".gs",
+        "translations": {
+            "en": {
+                "name": "South Georgia and the South Sandwich Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln",
+                "longname": null
+            },
+            "fr": {
+                "name": "G\u00e9orgie du Sud-et-les \u00celes Sandwich du Sud (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GT",
+        "code_alpha2_lc": "gt",
+        "code_alpha3_uc": "GTM",
+        "code_alpha3_lc": "gtm",
+        "code_numeric": 320,
+        "cctld": ".gt",
+        "translations": {
+            "en": {
+                "name": "Guatemala",
+                "longname": null
+            },
+            "de": {
+                "name": "Guatemala",
+                "longname": "die Republik Guatemala"
+            },
+            "fr": {
+                "name": "Guatemala (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GU",
+        "code_alpha2_lc": "gu",
+        "code_alpha3_uc": "GUM",
+        "code_alpha3_lc": "gum",
+        "code_numeric": 316,
+        "cctld": ".gu",
+        "translations": {
+            "en": {
+                "name": "Guam",
+                "longname": null
+            },
+            "de": {
+                "name": "Guam",
+                "longname": null
+            },
+            "fr": {
+                "name": "Guam",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GW",
+        "code_alpha2_lc": "gw",
+        "code_alpha3_uc": "GNB",
+        "code_alpha3_lc": "gnb",
+        "code_numeric": 624,
+        "cctld": ".gw",
+        "translations": {
+            "en": {
+                "name": "Guinea-Bissau",
+                "longname": null
+            },
+            "de": {
+                "name": "Guinea-Bissau",
+                "longname": "die Republik Guinea-Bissau"
+            },
+            "fr": {
+                "name": "Guin\u00e9e-Bissau (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "GY",
+        "code_alpha2_lc": "gy",
+        "code_alpha3_uc": "GUY",
+        "code_alpha3_lc": "guy",
+        "code_numeric": 328,
+        "cctld": ".gy",
+        "translations": {
+            "en": {
+                "name": "Guyana",
+                "longname": null
+            },
+            "de": {
+                "name": "Guyana",
+                "longname": "die Kooperative Republik Guyana"
+            },
+            "fr": {
+                "name": "Guyana (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "HK",
+        "code_alpha2_lc": "hk",
+        "code_alpha3_uc": "HKG",
+        "code_alpha3_lc": "hkg",
+        "code_numeric": 344,
+        "cctld": ".hk",
+        "translations": {
+            "en": {
+                "name": "Hong Kong",
+                "longname": null
+            },
+            "de": {
+                "name": "Hongkong",
+                "longname": "die Sonderverwaltungsregion Hongkong"
+            },
+            "fr": {
+                "name": "Hong Kong",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "HM",
+        "code_alpha2_lc": "hm",
+        "code_alpha3_uc": "HMD",
+        "code_alpha3_lc": "hmd",
+        "code_numeric": 334,
+        "cctld": ".hm",
+        "translations": {
+            "en": {
+                "name": "Heard Island and McDonald Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Heard und die McDonaldinseln",
+                "longname": "Territorium Heard und die McDonaldinseln"
+            },
+            "fr": {
+                "name": "Heard-et-\u00celes MacDonald (l'\u00cele)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "HN",
+        "code_alpha2_lc": "hn",
+        "code_alpha3_uc": "HND",
+        "code_alpha3_lc": "hnd",
+        "code_numeric": 340,
+        "cctld": ".hn",
+        "translations": {
+            "en": {
+                "name": "Honduras",
+                "longname": null
+            },
+            "de": {
+                "name": "Honduras",
+                "longname": "die Republik Honduras"
+            },
+            "fr": {
+                "name": "Honduras (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "HR",
+        "code_alpha2_lc": "hr",
+        "code_alpha3_uc": "HRV",
+        "code_alpha3_lc": "hrv",
+        "code_numeric": 191,
+        "cctld": ".hr",
+        "translations": {
+            "en": {
+                "name": "Croatia",
+                "longname": null
+            },
+            "de": {
+                "name": "Kroatien",
+                "longname": "die Republik Kroatien"
+            },
+            "fr": {
+                "name": "Croatie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "HT",
+        "code_alpha2_lc": "ht",
+        "code_alpha3_uc": "HTI",
+        "code_alpha3_lc": "hti",
+        "code_numeric": 332,
+        "cctld": ".ht",
+        "translations": {
+            "en": {
+                "name": "Haiti",
+                "longname": null
+            },
+            "de": {
+                "name": "Haiti",
+                "longname": "die Republik Haiti"
+            },
+            "fr": {
+                "name": "Ha\u00efti",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "HU",
+        "code_alpha2_lc": "hu",
+        "code_alpha3_uc": "HUN",
+        "code_alpha3_lc": "hun",
+        "code_numeric": 348,
+        "cctld": ".hu",
+        "translations": {
+            "en": {
+                "name": "Hungary",
+                "longname": null
+            },
+            "de": {
+                "name": "Ungarn",
+                "longname": "Ungarn"
+            },
+            "fr": {
+                "name": "Hongrie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ID",
+        "code_alpha2_lc": "id",
+        "code_alpha3_uc": "IDN",
+        "code_alpha3_lc": "idn",
+        "code_numeric": 360,
+        "cctld": ".id",
+        "translations": {
+            "en": {
+                "name": "Indonesia",
+                "longname": null
+            },
+            "de": {
+                "name": "Indonesien",
+                "longname": "die Republik Indonesien"
+            },
+            "fr": {
+                "name": "Indon\u00e9sie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IE",
+        "code_alpha2_lc": "ie",
+        "code_alpha3_uc": "IRL",
+        "code_alpha3_lc": "irl",
+        "code_numeric": 372,
+        "cctld": ".ie",
+        "translations": {
+            "en": {
+                "name": "Ireland",
+                "longname": null
+            },
+            "de": {
+                "name": "Irland",
+                "longname": "Irland"
+            },
+            "fr": {
+                "name": "Irlande (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IL",
+        "code_alpha2_lc": "il",
+        "code_alpha3_uc": "ISR",
+        "code_alpha3_lc": "isr",
+        "code_numeric": 376,
+        "cctld": ".il",
+        "translations": {
+            "en": {
+                "name": "Israel",
+                "longname": null
+            },
+            "de": {
+                "name": "Israel",
+                "longname": "der Staat Israel"
+            },
+            "fr": {
+                "name": "Isra\u00ebl",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IM",
+        "code_alpha2_lc": "im",
+        "code_alpha3_uc": "IMN",
+        "code_alpha3_lc": "imn",
+        "code_numeric": 833,
+        "cctld": ".im",
+        "translations": {
+            "en": {
+                "name": "Isle of Man",
+                "longname": null
+            },
+            "de": {
+                "name": "Insel Man",
+                "longname": null
+            },
+            "fr": {
+                "name": "\u00cele de Man",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IN",
+        "code_alpha2_lc": "in",
+        "code_alpha3_uc": "IND",
+        "code_alpha3_lc": "ind",
+        "code_numeric": 356,
+        "cctld": ".in",
+        "translations": {
+            "en": {
+                "name": "India",
+                "longname": null
+            },
+            "de": {
+                "name": "Indien",
+                "longname": "die Republik Indien"
+            },
+            "fr": {
+                "name": "Inde (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IO",
+        "code_alpha2_lc": "io",
+        "code_alpha3_uc": "IOT",
+        "code_alpha3_lc": "iot",
+        "code_numeric": 86,
+        "cctld": ".io",
+        "translations": {
+            "en": {
+                "name": "British Indian Ocean Territory",
+                "longname": null
+            },
+            "de": {
+                "name": "Britisches Territorium im Indischen Ozean",
+                "longname": null
+            },
+            "fr": {
+                "name": "Indien (le\u00a0Territoire britannique de l'oc\u00e9an)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IQ",
+        "code_alpha2_lc": "iq",
+        "code_alpha3_uc": "IRQ",
+        "code_alpha3_lc": "irq",
+        "code_numeric": 368,
+        "cctld": ".iq",
+        "translations": {
+            "en": {
+                "name": "Iraq",
+                "longname": null
+            },
+            "de": {
+                "name": "Irak",
+                "longname": "die Republik Irak"
+            },
+            "fr": {
+                "name": "Iraq (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IR",
+        "code_alpha2_lc": "ir",
+        "code_alpha3_uc": "IRN",
+        "code_alpha3_lc": "irn",
+        "code_numeric": 364,
+        "cctld": ".ir",
+        "translations": {
+            "en": {
+                "name": "Iran, Islamic Republic of",
+                "longname": null
+            },
+            "de": {
+                "name": "Islamische Republik Iran",
+                "longname": "die Islamische Republik Iran"
+            },
+            "fr": {
+                "name": "Iran (R\u00e9publique Islamique d')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IS",
+        "code_alpha2_lc": "is",
+        "code_alpha3_uc": "ISL",
+        "code_alpha3_lc": "isl",
+        "code_numeric": 352,
+        "cctld": ".is",
+        "translations": {
+            "en": {
+                "name": "Iceland",
+                "longname": null
+            },
+            "de": {
+                "name": "Island",
+                "longname": "die Republik Island"
+            },
+            "fr": {
+                "name": "Islande (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "IT",
+        "code_alpha2_lc": "it",
+        "code_alpha3_uc": "ITA",
+        "code_alpha3_lc": "ita",
+        "code_numeric": 380,
+        "cctld": ".it",
+        "translations": {
+            "en": {
+                "name": "Italy",
+                "longname": null
+            },
+            "de": {
+                "name": "Italien",
+                "longname": "die Italienische Republik"
+            },
+            "fr": {
+                "name": "Italie (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "JE",
+        "code_alpha2_lc": "je",
+        "code_alpha3_uc": "JEY",
+        "code_alpha3_lc": "jey",
+        "code_numeric": 832,
+        "cctld": ".je",
+        "translations": {
+            "en": {
+                "name": "Jersey",
+                "longname": null
+            },
+            "de": {
+                "name": "Jersey",
+                "longname": null
+            },
+            "fr": {
+                "name": "Jersey",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "JM",
+        "code_alpha2_lc": "jm",
+        "code_alpha3_uc": "JAM",
+        "code_alpha3_lc": "jam",
+        "code_numeric": 388,
+        "cctld": ".jm",
+        "translations": {
+            "en": {
+                "name": "Jamaica",
+                "longname": null
+            },
+            "de": {
+                "name": "Jamaika",
+                "longname": "Jamaika"
+            },
+            "fr": {
+                "name": "Jama\u00efque (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "JO",
+        "code_alpha2_lc": "jo",
+        "code_alpha3_uc": "JOR",
+        "code_alpha3_lc": "jor",
+        "code_numeric": 400,
+        "cctld": ".jo",
+        "translations": {
+            "en": {
+                "name": "Jordan",
+                "longname": null
+            },
+            "de": {
+                "name": "Jordanien",
+                "longname": "das Haschemitische K\u00f6nigreich Jordanien"
+            },
+            "fr": {
+                "name": "Jordanie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "JP",
+        "code_alpha2_lc": "jp",
+        "code_alpha3_uc": "JPN",
+        "code_alpha3_lc": "jpn",
+        "code_numeric": 392,
+        "cctld": ".jp",
+        "translations": {
+            "en": {
+                "name": "Japan",
+                "longname": null
+            },
+            "de": {
+                "name": "Japan",
+                "longname": "Japan"
+            },
+            "fr": {
+                "name": "Japon (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KE",
+        "code_alpha2_lc": "ke",
+        "code_alpha3_uc": "KEN",
+        "code_alpha3_lc": "ken",
+        "code_numeric": 404,
+        "cctld": ".ke",
+        "translations": {
+            "en": {
+                "name": "Kenya",
+                "longname": null
+            },
+            "de": {
+                "name": "Kenia",
+                "longname": "die Republik Kenia"
+            },
+            "fr": {
+                "name": "Kenya (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KG",
+        "code_alpha2_lc": "kg",
+        "code_alpha3_uc": "KGZ",
+        "code_alpha3_lc": "kgz",
+        "code_numeric": 417,
+        "cctld": ".kg",
+        "translations": {
+            "en": {
+                "name": "Kyrgyzstan",
+                "longname": null
+            },
+            "de": {
+                "name": "Kirgisistan",
+                "longname": "die Kirgisische Republik"
+            },
+            "fr": {
+                "name": "Kirghizistan (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KH",
+        "code_alpha2_lc": "kh",
+        "code_alpha3_uc": "KHM",
+        "code_alpha3_lc": "khm",
+        "code_numeric": 116,
+        "cctld": ".kh",
+        "translations": {
+            "en": {
+                "name": "Cambodia",
+                "longname": null
+            },
+            "de": {
+                "name": "Kambodscha",
+                "longname": "das K\u00f6nigreich Kambodscha"
+            },
+            "fr": {
+                "name": "Cambodge (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KI",
+        "code_alpha2_lc": "ki",
+        "code_alpha3_uc": "KIR",
+        "code_alpha3_lc": "kir",
+        "code_numeric": 296,
+        "cctld": ".ki",
+        "translations": {
+            "en": {
+                "name": "Kiribati",
+                "longname": null
+            },
+            "de": {
+                "name": "Kiribati",
+                "longname": "die Republik Kiribati"
+            },
+            "fr": {
+                "name": "Kiribati",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KM",
+        "code_alpha2_lc": "km",
+        "code_alpha3_uc": "COM",
+        "code_alpha3_lc": "com",
+        "code_numeric": 174,
+        "cctld": ".km",
+        "translations": {
+            "en": {
+                "name": "Comoros",
+                "longname": null
+            },
+            "de": {
+                "name": "Komoren",
+                "longname": "die Union der Komoren"
+            },
+            "fr": {
+                "name": "Comores (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KN",
+        "code_alpha2_lc": "kn",
+        "code_alpha3_uc": "KNA",
+        "code_alpha3_lc": "kna",
+        "code_numeric": 659,
+        "cctld": ".kn",
+        "translations": {
+            "en": {
+                "name": "Saint Kitts and Nevis",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Kitts und Nevis",
+                "longname": "die F\u00f6deration St. Kitts und Nevis"
+            },
+            "fr": {
+                "name": "Saint-Kitts-et-Nevis",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KP",
+        "code_alpha2_lc": "kp",
+        "code_alpha3_uc": "PRK",
+        "code_alpha3_lc": "prk",
+        "code_numeric": 408,
+        "cctld": ".kp",
+        "translations": {
+            "en": {
+                "name": "Korea, Democratic People's Republic of",
+                "longname": null
+            },
+            "de": {
+                "name": "Demokratische Volksrepublik Korea",
+                "longname": "die Demokratische Volksrepublik Korea"
+            },
+            "fr": {
+                "name": "Cor\u00e9e (la\u00a0R\u00e9publique populaire d\u00e9mocratique de)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KR",
+        "code_alpha2_lc": "kr",
+        "code_alpha3_uc": "KOR",
+        "code_alpha3_lc": "kor",
+        "code_numeric": 410,
+        "cctld": ".kr",
+        "translations": {
+            "en": {
+                "name": "Korea, Republic of",
+                "longname": null
+            },
+            "de": {
+                "name": "Republik Korea",
+                "longname": "die Republik Korea"
+            },
+            "fr": {
+                "name": "Cor\u00e9e (la R\u00e9publique de)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KW",
+        "code_alpha2_lc": "kw",
+        "code_alpha3_uc": "KWT",
+        "code_alpha3_lc": "kwt",
+        "code_numeric": 414,
+        "cctld": ".kw",
+        "translations": {
+            "en": {
+                "name": "Kuwait",
+                "longname": null
+            },
+            "de": {
+                "name": "Kuwait",
+                "longname": "der Staat Kuwait"
+            },
+            "fr": {
+                "name": "Kowe\u00eft (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KY",
+        "code_alpha2_lc": "ky",
+        "code_alpha3_uc": "CYM",
+        "code_alpha3_lc": "cym",
+        "code_numeric": 136,
+        "cctld": ".ky",
+        "translations": {
+            "en": {
+                "name": "Cayman Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Kaimaninseln",
+                "longname": null
+            },
+            "fr": {
+                "name": "Ca\u00efmans (les\u00a0\u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "KZ",
+        "code_alpha2_lc": "kz",
+        "code_alpha3_uc": "KAZ",
+        "code_alpha3_lc": "kaz",
+        "code_numeric": 398,
+        "cctld": ".kz",
+        "translations": {
+            "en": {
+                "name": "Kazakhstan",
+                "longname": null
+            },
+            "de": {
+                "name": "Kasachstan",
+                "longname": "die Republik Kasachstan"
+            },
+            "fr": {
+                "name": "Kazakhstan (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LA",
+        "code_alpha2_lc": "la",
+        "code_alpha3_uc": "LAO",
+        "code_alpha3_lc": "lao",
+        "code_numeric": 418,
+        "cctld": ".la",
+        "translations": {
+            "en": {
+                "name": "Lao People's Democratic Republic",
+                "longname": null
+            },
+            "de": {
+                "name": "Demokratische Volksrepublik Laos",
+                "longname": "die Demokratische Volksrepublik Laos"
+            },
+            "fr": {
+                "name": "Lao (la R\u00e9publique d\u00e9mocratique populaire)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LB",
+        "code_alpha2_lc": "lb",
+        "code_alpha3_uc": "LBN",
+        "code_alpha3_lc": "lbn",
+        "code_numeric": 422,
+        "cctld": ".lb",
+        "translations": {
+            "en": {
+                "name": "Lebanon",
+                "longname": null
+            },
+            "de": {
+                "name": "Libanon",
+                "longname": "die Libanesische Republik"
+            },
+            "fr": {
+                "name": "Liban (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LC",
+        "code_alpha2_lc": "lc",
+        "code_alpha3_uc": "LCA",
+        "code_alpha3_lc": "lca",
+        "code_numeric": 662,
+        "cctld": ".lc",
+        "translations": {
+            "en": {
+                "name": "Saint Lucia",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Lucia",
+                "longname": "St. Lucia"
+            },
+            "fr": {
+                "name": "Sainte-Lucie",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LI",
+        "code_alpha2_lc": "li",
+        "code_alpha3_uc": "LIE",
+        "code_alpha3_lc": "lie",
+        "code_numeric": 438,
+        "cctld": ".li",
+        "translations": {
+            "en": {
+                "name": "Liechtenstein",
+                "longname": null
+            },
+            "de": {
+                "name": "Liechtenstein",
+                "longname": "das F\u00fcrstentum Liechtenstein"
+            },
+            "fr": {
+                "name": "Liechtenstein (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LK",
+        "code_alpha2_lc": "lk",
+        "code_alpha3_uc": "LKA",
+        "code_alpha3_lc": "lka",
+        "code_numeric": 144,
+        "cctld": ".lk",
+        "translations": {
+            "en": {
+                "name": "Sri Lanka",
+                "longname": null
+            },
+            "de": {
+                "name": "Sri Lanka",
+                "longname": "die Demokratische Sozialistische Republik Sri Lanka"
+            },
+            "fr": {
+                "name": "Sri Lanka",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LR",
+        "code_alpha2_lc": "lr",
+        "code_alpha3_uc": "LBR",
+        "code_alpha3_lc": "lbr",
+        "code_numeric": 430,
+        "cctld": ".lr",
+        "translations": {
+            "en": {
+                "name": "Liberia",
+                "longname": null
+            },
+            "de": {
+                "name": "Liberia",
+                "longname": "die Republik Liberia"
+            },
+            "fr": {
+                "name": "Lib\u00e9ria (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LS",
+        "code_alpha2_lc": "ls",
+        "code_alpha3_uc": "LSO",
+        "code_alpha3_lc": "lso",
+        "code_numeric": 426,
+        "cctld": ".ls",
+        "translations": {
+            "en": {
+                "name": "Lesotho",
+                "longname": null
+            },
+            "de": {
+                "name": "Lesotho",
+                "longname": "das K\u00f6nigreich Lesotho"
+            },
+            "fr": {
+                "name": "Lesotho (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LT",
+        "code_alpha2_lc": "lt",
+        "code_alpha3_uc": "LTU",
+        "code_alpha3_lc": "ltu",
+        "code_numeric": 440,
+        "cctld": ".lt",
+        "translations": {
+            "en": {
+                "name": "Lithuania",
+                "longname": null
+            },
+            "de": {
+                "name": "Litauen",
+                "longname": "die Republik Litauen"
+            },
+            "fr": {
+                "name": "Lituanie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LU",
+        "code_alpha2_lc": "lu",
+        "code_alpha3_uc": "LUX",
+        "code_alpha3_lc": "lux",
+        "code_numeric": 442,
+        "cctld": ".lu",
+        "translations": {
+            "en": {
+                "name": "Luxembourg",
+                "longname": null
+            },
+            "de": {
+                "name": "Luxemburg",
+                "longname": "das Gro\u00dfherzogtum Luxemburg"
+            },
+            "fr": {
+                "name": "Luxembourg (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LV",
+        "code_alpha2_lc": "lv",
+        "code_alpha3_uc": "LVA",
+        "code_alpha3_lc": "lva",
+        "code_numeric": 428,
+        "cctld": ".lv",
+        "translations": {
+            "en": {
+                "name": "Latvia",
+                "longname": null
+            },
+            "de": {
+                "name": "Lettland",
+                "longname": "die Republik Lettland"
+            },
+            "fr": {
+                "name": "Lettonie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "LY",
+        "code_alpha2_lc": "ly",
+        "code_alpha3_uc": "LBY",
+        "code_alpha3_lc": "lby",
+        "code_numeric": 434,
+        "cctld": ".ly",
+        "translations": {
+            "en": {
+                "name": "Libya",
+                "longname": null
+            },
+            "de": {
+                "name": "Libyen",
+                "longname": "der Staat Libyen"
+            },
+            "fr": {
+                "name": "Libye (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MA",
+        "code_alpha2_lc": "ma",
+        "code_alpha3_uc": "MAR",
+        "code_alpha3_lc": "mar",
+        "code_numeric": 504,
+        "cctld": ".ma",
+        "translations": {
+            "en": {
+                "name": "Morocco",
+                "longname": null
+            },
+            "de": {
+                "name": "Marokko",
+                "longname": "das K\u00f6nigreich Marokko"
+            },
+            "fr": {
+                "name": "Maroc (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MC",
+        "code_alpha2_lc": "mc",
+        "code_alpha3_uc": "MCO",
+        "code_alpha3_lc": "mco",
+        "code_numeric": 492,
+        "cctld": ".mc",
+        "translations": {
+            "en": {
+                "name": "Monaco",
+                "longname": null
+            },
+            "de": {
+                "name": "Monaco",
+                "longname": "das F\u00fcrstentum Monaco"
+            },
+            "fr": {
+                "name": "Monaco",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MD",
+        "code_alpha2_lc": "md",
+        "code_alpha3_uc": "MDA",
+        "code_alpha3_lc": "mda",
+        "code_numeric": 498,
+        "cctld": ".md",
+        "translations": {
+            "en": {
+                "name": "Moldova, Republic of",
+                "longname": null
+            },
+            "de": {
+                "name": "Republik Moldau",
+                "longname": "die Republik Moldau"
+            },
+            "fr": {
+                "name": "Moldova (la R\u00e9publique de)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ME",
+        "code_alpha2_lc": "me",
+        "code_alpha3_uc": "MNE",
+        "code_alpha3_lc": "mne",
+        "code_numeric": 499,
+        "cctld": ".me",
+        "translations": {
+            "en": {
+                "name": "Montenegro",
+                "longname": null
+            },
+            "de": {
+                "name": "Montenegro",
+                "longname": "Montenegro"
+            },
+            "fr": {
+                "name": "Mont\u00e9n\u00e9gro (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MF",
+        "code_alpha2_lc": "mf",
+        "code_alpha3_uc": "MAF",
+        "code_alpha3_lc": "maf",
+        "code_numeric": 663,
+        "cctld": ".mf",
+        "translations": {
+            "en": {
+                "name": "Saint Martin (French part)",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Martin (franz\u00f6sischer Teil)",
+                "longname": null
+            },
+            "fr": {
+                "name": "Saint-Martin (partie fran\u00e7aise)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MG",
+        "code_alpha2_lc": "mg",
+        "code_alpha3_uc": "MDG",
+        "code_alpha3_lc": "mdg",
+        "code_numeric": 450,
+        "cctld": ".mg",
+        "translations": {
+            "en": {
+                "name": "Madagascar",
+                "longname": null
+            },
+            "de": {
+                "name": "Madagaskar",
+                "longname": "die Republik Madagaskar"
+            },
+            "fr": {
+                "name": "Madagascar",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MH",
+        "code_alpha2_lc": "mh",
+        "code_alpha3_uc": "MHL",
+        "code_alpha3_lc": "mhl",
+        "code_numeric": 584,
+        "cctld": ".mh",
+        "translations": {
+            "en": {
+                "name": "Marshall Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Marshallinseln",
+                "longname": "die Republik Marshallinseln"
+            },
+            "fr": {
+                "name": "Marshall (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MK",
+        "code_alpha2_lc": "mk",
+        "code_alpha3_uc": "MKD",
+        "code_alpha3_lc": "mkd",
+        "code_numeric": 807,
+        "cctld": ".mk",
+        "translations": {
+            "en": {
+                "name": "North Macedonia",
+                "longname": null
+            },
+            "de": {
+                "name": "Nordmazedonien",
+                "longname": "die Republik Nordmazedonien"
+            },
+            "fr": {
+                "name": "Mac\u00e9doine du Nord (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ML",
+        "code_alpha2_lc": "ml",
+        "code_alpha3_uc": "MLI",
+        "code_alpha3_lc": "mli",
+        "code_numeric": 466,
+        "cctld": ".ml",
+        "translations": {
+            "en": {
+                "name": "Mali",
+                "longname": null
+            },
+            "de": {
+                "name": "Mali",
+                "longname": "die Republik Mali"
+            },
+            "fr": {
+                "name": "Mali (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MM",
+        "code_alpha2_lc": "mm",
+        "code_alpha3_uc": "MMR",
+        "code_alpha3_lc": "mmr",
+        "code_numeric": 104,
+        "cctld": ".mm",
+        "translations": {
+            "en": {
+                "name": "Myanmar",
+                "longname": null
+            },
+            "de": {
+                "name": "Myanmar",
+                "longname": "die Republik der Union Myanmar"
+            },
+            "fr": {
+                "name": "Myanmar (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MN",
+        "code_alpha2_lc": "mn",
+        "code_alpha3_uc": "MNG",
+        "code_alpha3_lc": "mng",
+        "code_numeric": 496,
+        "cctld": ".mn",
+        "translations": {
+            "en": {
+                "name": "Mongolia",
+                "longname": null
+            },
+            "de": {
+                "name": "Mongolei",
+                "longname": "die Mongolei"
+            },
+            "fr": {
+                "name": "Mongolie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MO",
+        "code_alpha2_lc": "mo",
+        "code_alpha3_uc": "MAC",
+        "code_alpha3_lc": "mac",
+        "code_numeric": 446,
+        "cctld": ".mo",
+        "translations": {
+            "en": {
+                "name": "Macao",
+                "longname": null
+            },
+            "de": {
+                "name": "Macau",
+                "longname": "die Sonderverwaltungsregion Macau"
+            },
+            "fr": {
+                "name": "Macao",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MP",
+        "code_alpha2_lc": "mp",
+        "code_alpha3_uc": "MNP",
+        "code_alpha3_lc": "mnp",
+        "code_numeric": 580,
+        "cctld": ".mp",
+        "translations": {
+            "en": {
+                "name": "Northern Mariana Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Marianen, N\u00f6rdliche",
+                "longname": "Commonwealth der N\u00f6rdlichen Marianen"
+            },
+            "fr": {
+                "name": "Mariannes du Nord (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MQ",
+        "code_alpha2_lc": "mq",
+        "code_alpha3_uc": "MTQ",
+        "code_alpha3_lc": "mtq",
+        "code_numeric": 474,
+        "cctld": ".mq",
+        "translations": {
+            "en": {
+                "name": "Martinique",
+                "longname": null
+            },
+            "de": {
+                "name": "Martinique",
+                "longname": null
+            },
+            "fr": {
+                "name": "Martinique (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MR",
+        "code_alpha2_lc": "mr",
+        "code_alpha3_uc": "MRT",
+        "code_alpha3_lc": "mrt",
+        "code_numeric": 478,
+        "cctld": ".mr",
+        "translations": {
+            "en": {
+                "name": "Mauritania",
+                "longname": null
+            },
+            "de": {
+                "name": "Mauretanien",
+                "longname": "die Islamische Republik Mauretanien"
+            },
+            "fr": {
+                "name": "Mauritanie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MS",
+        "code_alpha2_lc": "ms",
+        "code_alpha3_uc": "MSR",
+        "code_alpha3_lc": "msr",
+        "code_numeric": 500,
+        "cctld": ".ms",
+        "translations": {
+            "en": {
+                "name": "Montserrat",
+                "longname": null
+            },
+            "de": {
+                "name": "Montserrat",
+                "longname": null
+            },
+            "fr": {
+                "name": "Montserrat",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MT",
+        "code_alpha2_lc": "mt",
+        "code_alpha3_uc": "MLT",
+        "code_alpha3_lc": "mlt",
+        "code_numeric": 470,
+        "cctld": ".mt",
+        "translations": {
+            "en": {
+                "name": "Malta",
+                "longname": null
+            },
+            "de": {
+                "name": "Malta",
+                "longname": "die Republik Malta"
+            },
+            "fr": {
+                "name": "Malte",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MU",
+        "code_alpha2_lc": "mu",
+        "code_alpha3_uc": "MUS",
+        "code_alpha3_lc": "mus",
+        "code_numeric": 480,
+        "cctld": ".mu",
+        "translations": {
+            "en": {
+                "name": "Mauritius",
+                "longname": null
+            },
+            "de": {
+                "name": "Mauritius",
+                "longname": "die Republik Mauritius"
+            },
+            "fr": {
+                "name": "Maurice",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MV",
+        "code_alpha2_lc": "mv",
+        "code_alpha3_uc": "MDV",
+        "code_alpha3_lc": "mdv",
+        "code_numeric": 462,
+        "cctld": ".mv",
+        "translations": {
+            "en": {
+                "name": "Maldives",
+                "longname": null
+            },
+            "de": {
+                "name": "Malediven",
+                "longname": "die Republik Malediven"
+            },
+            "fr": {
+                "name": "Maldives (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MW",
+        "code_alpha2_lc": "mw",
+        "code_alpha3_uc": "MWI",
+        "code_alpha3_lc": "mwi",
+        "code_numeric": 454,
+        "cctld": ".mw",
+        "translations": {
+            "en": {
+                "name": "Malawi",
+                "longname": null
+            },
+            "de": {
+                "name": "Malawi",
+                "longname": "die Republik Malawi"
+            },
+            "fr": {
+                "name": "Malawi (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MX",
+        "code_alpha2_lc": "mx",
+        "code_alpha3_uc": "MEX",
+        "code_alpha3_lc": "mex",
+        "code_numeric": 484,
+        "cctld": ".mx",
+        "translations": {
+            "en": {
+                "name": "Mexico",
+                "longname": null
+            },
+            "de": {
+                "name": "Mexiko",
+                "longname": "die Vereinigten Mexikanischen Staaten"
+            },
+            "fr": {
+                "name": "Mexique (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MY",
+        "code_alpha2_lc": "my",
+        "code_alpha3_uc": "MYS",
+        "code_alpha3_lc": "mys",
+        "code_numeric": 458,
+        "cctld": ".my",
+        "translations": {
+            "en": {
+                "name": "Malaysia",
+                "longname": null
+            },
+            "de": {
+                "name": "Malaysia",
+                "longname": "Malaysia"
+            },
+            "fr": {
+                "name": "Malaisie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "MZ",
+        "code_alpha2_lc": "mz",
+        "code_alpha3_uc": "MOZ",
+        "code_alpha3_lc": "moz",
+        "code_numeric": 508,
+        "cctld": ".mz",
+        "translations": {
+            "en": {
+                "name": "Mozambique",
+                "longname": null
+            },
+            "de": {
+                "name": "Mosambik",
+                "longname": "die Republik Mosambik"
+            },
+            "fr": {
+                "name": "Mozambique (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NA",
+        "code_alpha2_lc": "na",
+        "code_alpha3_uc": "NAM",
+        "code_alpha3_lc": "nam",
+        "code_numeric": 516,
+        "cctld": ".na",
+        "translations": {
+            "en": {
+                "name": "Namibia",
+                "longname": null
+            },
+            "de": {
+                "name": "Namibia",
+                "longname": "die Republik Namibia"
+            },
+            "fr": {
+                "name": "Namibie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NC",
+        "code_alpha2_lc": "nc",
+        "code_alpha3_uc": "NCL",
+        "code_alpha3_lc": "ncl",
+        "code_numeric": 540,
+        "cctld": ".nc",
+        "translations": {
+            "en": {
+                "name": "New Caledonia",
+                "longname": null
+            },
+            "de": {
+                "name": "Neukaledonien",
+                "longname": null
+            },
+            "fr": {
+                "name": "Nouvelle-Cal\u00e9donie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NE",
+        "code_alpha2_lc": "ne",
+        "code_alpha3_uc": "NER",
+        "code_alpha3_lc": "ner",
+        "code_numeric": 562,
+        "cctld": ".ne",
+        "translations": {
+            "en": {
+                "name": "Niger",
+                "longname": null
+            },
+            "de": {
+                "name": "Niger",
+                "longname": "die Republik Niger"
+            },
+            "fr": {
+                "name": "Niger (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NF",
+        "code_alpha2_lc": "nf",
+        "code_alpha3_uc": "NFK",
+        "code_alpha3_lc": "nfk",
+        "code_numeric": 574,
+        "cctld": ".nf",
+        "translations": {
+            "en": {
+                "name": "Norfolk Island",
+                "longname": null
+            },
+            "de": {
+                "name": "Norfolkinsel",
+                "longname": null
+            },
+            "fr": {
+                "name": "Norfolk (l'\u00cele)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NG",
+        "code_alpha2_lc": "ng",
+        "code_alpha3_uc": "NGA",
+        "code_alpha3_lc": "nga",
+        "code_numeric": 566,
+        "cctld": ".ng",
+        "translations": {
+            "en": {
+                "name": "Nigeria",
+                "longname": null
+            },
+            "de": {
+                "name": "Nigeria",
+                "longname": "die Bundesrepublik Nigeria"
+            },
+            "fr": {
+                "name": "Nig\u00e9ria (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NI",
+        "code_alpha2_lc": "ni",
+        "code_alpha3_uc": "NIC",
+        "code_alpha3_lc": "nic",
+        "code_numeric": 558,
+        "cctld": ".ni",
+        "translations": {
+            "en": {
+                "name": "Nicaragua",
+                "longname": null
+            },
+            "de": {
+                "name": "Nicaragua",
+                "longname": "die Republik Nicaragua"
+            },
+            "fr": {
+                "name": "Nicaragua (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NL",
+        "code_alpha2_lc": "nl",
+        "code_alpha3_uc": "NLD",
+        "code_alpha3_lc": "nld",
+        "code_numeric": 528,
+        "cctld": ".nl",
+        "translations": {
+            "en": {
+                "name": "Netherlands, Kingdom of the",
+                "longname": null
+            },
+            "de": {
+                "name": "Niederlande",
+                "longname": "das K\u00f6nigreich der Niederlande"
+            },
+            "fr": {
+                "name": "Pays-Bas (Royaume des)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NO",
+        "code_alpha2_lc": "no",
+        "code_alpha3_uc": "NOR",
+        "code_alpha3_lc": "nor",
+        "code_numeric": 578,
+        "cctld": ".no",
+        "translations": {
+            "en": {
+                "name": "Norway",
+                "longname": null
+            },
+            "de": {
+                "name": "Norwegen",
+                "longname": "das K\u00f6nigreich Norwegen"
+            },
+            "fr": {
+                "name": "Norv\u00e8ge (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NP",
+        "code_alpha2_lc": "np",
+        "code_alpha3_uc": "NPL",
+        "code_alpha3_lc": "npl",
+        "code_numeric": 524,
+        "cctld": ".np",
+        "translations": {
+            "en": {
+                "name": "Nepal",
+                "longname": null
+            },
+            "de": {
+                "name": "Nepal",
+                "longname": "die Demokratische Bundesrepublik Nepal"
+            },
+            "fr": {
+                "name": "N\u00e9pal (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NR",
+        "code_alpha2_lc": "nr",
+        "code_alpha3_uc": "NRU",
+        "code_alpha3_lc": "nru",
+        "code_numeric": 520,
+        "cctld": ".nr",
+        "translations": {
+            "en": {
+                "name": "Nauru",
+                "longname": null
+            },
+            "de": {
+                "name": "Nauru",
+                "longname": "die Republik Nauru"
+            },
+            "fr": {
+                "name": "Nauru",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NU",
+        "code_alpha2_lc": "nu",
+        "code_alpha3_uc": "NIU",
+        "code_alpha3_lc": "niu",
+        "code_numeric": 570,
+        "cctld": ".nu",
+        "translations": {
+            "en": {
+                "name": "Niue",
+                "longname": null
+            },
+            "de": {
+                "name": "Niue",
+                "longname": "Niue"
+            },
+            "fr": {
+                "name": "Niue",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "NZ",
+        "code_alpha2_lc": "nz",
+        "code_alpha3_uc": "NZL",
+        "code_alpha3_lc": "nzl",
+        "code_numeric": 554,
+        "cctld": ".nz",
+        "translations": {
+            "en": {
+                "name": "New Zealand",
+                "longname": null
+            },
+            "de": {
+                "name": "Neuseeland",
+                "longname": "Neuseeland"
+            },
+            "fr": {
+                "name": "Nouvelle-Z\u00e9lande (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "OM",
+        "code_alpha2_lc": "om",
+        "code_alpha3_uc": "OMN",
+        "code_alpha3_lc": "omn",
+        "code_numeric": 512,
+        "cctld": ".om",
+        "translations": {
+            "en": {
+                "name": "Oman",
+                "longname": null
+            },
+            "de": {
+                "name": "Oman",
+                "longname": "das Sultanat Oman"
+            },
+            "fr": {
+                "name": "Oman",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PA",
+        "code_alpha2_lc": "pa",
+        "code_alpha3_uc": "PAN",
+        "code_alpha3_lc": "pan",
+        "code_numeric": 591,
+        "cctld": ".pa",
+        "translations": {
+            "en": {
+                "name": "Panama",
+                "longname": null
+            },
+            "de": {
+                "name": "Panama",
+                "longname": "die Republik Panama"
+            },
+            "fr": {
+                "name": "Panama (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PE",
+        "code_alpha2_lc": "pe",
+        "code_alpha3_uc": "PER",
+        "code_alpha3_lc": "per",
+        "code_numeric": 604,
+        "cctld": ".pe",
+        "translations": {
+            "en": {
+                "name": "Peru",
+                "longname": null
+            },
+            "de": {
+                "name": "Peru",
+                "longname": "die Republik Peru"
+            },
+            "fr": {
+                "name": "P\u00e9rou (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PF",
+        "code_alpha2_lc": "pf",
+        "code_alpha3_uc": "PYF",
+        "code_alpha3_lc": "pyf",
+        "code_numeric": 258,
+        "cctld": ".pf",
+        "translations": {
+            "en": {
+                "name": "French Polynesia",
+                "longname": null
+            },
+            "de": {
+                "name": "Franz\u00f6sisch-Polynesien",
+                "longname": null
+            },
+            "fr": {
+                "name": "Polyn\u00e9sie fran\u00e7aise (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PG",
+        "code_alpha2_lc": "pg",
+        "code_alpha3_uc": "PNG",
+        "code_alpha3_lc": "png",
+        "code_numeric": 598,
+        "cctld": ".pg",
+        "translations": {
+            "en": {
+                "name": "Papua New Guinea",
+                "longname": null
+            },
+            "de": {
+                "name": "Papua-Neuguinea",
+                "longname": "der Unabh\u00e4ngige Staat Papua-Neuguinea"
+            },
+            "fr": {
+                "name": "Papouasie-Nouvelle-Guin\u00e9e (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PH",
+        "code_alpha2_lc": "ph",
+        "code_alpha3_uc": "PHL",
+        "code_alpha3_lc": "phl",
+        "code_numeric": 608,
+        "cctld": ".ph",
+        "translations": {
+            "en": {
+                "name": "Philippines",
+                "longname": null
+            },
+            "de": {
+                "name": "Philippinen",
+                "longname": "die Republik der Philippinen"
+            },
+            "fr": {
+                "name": "Philippines (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PK",
+        "code_alpha2_lc": "pk",
+        "code_alpha3_uc": "PAK",
+        "code_alpha3_lc": "pak",
+        "code_numeric": 586,
+        "cctld": ".pk",
+        "translations": {
+            "en": {
+                "name": "Pakistan",
+                "longname": null
+            },
+            "de": {
+                "name": "Pakistan",
+                "longname": "die Islamische Republik Pakistan"
+            },
+            "fr": {
+                "name": "Pakistan (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PL",
+        "code_alpha2_lc": "pl",
+        "code_alpha3_uc": "POL",
+        "code_alpha3_lc": "pol",
+        "code_numeric": 616,
+        "cctld": ".pl",
+        "translations": {
+            "en": {
+                "name": "Poland",
+                "longname": null
+            },
+            "de": {
+                "name": "Polen",
+                "longname": "die Republik Polen"
+            },
+            "fr": {
+                "name": "Pologne (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PM",
+        "code_alpha2_lc": "pm",
+        "code_alpha3_uc": "SPM",
+        "code_alpha3_lc": "spm",
+        "code_numeric": 666,
+        "cctld": ".pm",
+        "translations": {
+            "en": {
+                "name": "Saint Pierre and Miquelon",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Pierre und Miquelon",
+                "longname": null
+            },
+            "fr": {
+                "name": "Saint-Pierre-et-Miquelon",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PN",
+        "code_alpha2_lc": "pn",
+        "code_alpha3_uc": "PCN",
+        "code_alpha3_lc": "pcn",
+        "code_numeric": 612,
+        "cctld": ".pn",
+        "translations": {
+            "en": {
+                "name": "Pitcairn",
+                "longname": null
+            },
+            "de": {
+                "name": "Pitcairninseln",
+                "longname": null
+            },
+            "fr": {
+                "name": "Pitcairn",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PR",
+        "code_alpha2_lc": "pr",
+        "code_alpha3_uc": "PRI",
+        "code_alpha3_lc": "pri",
+        "code_numeric": 630,
+        "cctld": ".pr",
+        "translations": {
+            "en": {
+                "name": "Puerto Rico",
+                "longname": null
+            },
+            "de": {
+                "name": "Puerto Rico",
+                "longname": "Freistaat Puerto Rico"
+            },
+            "fr": {
+                "name": "Porto Rico",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PS",
+        "code_alpha2_lc": "ps",
+        "code_alpha3_uc": "PSE",
+        "code_alpha3_lc": "pse",
+        "code_numeric": 275,
+        "cctld": ".ps",
+        "translations": {
+            "en": {
+                "name": "Palestine, State of",
+                "longname": null
+            },
+            "de": {
+                "name": "Pal\u00e4stinensische Gebiete",
+                "longname": "Pal\u00e4stinensische Gebiete"
+            },
+            "fr": {
+                "name": "Palestine, \u00c9tat de",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PT",
+        "code_alpha2_lc": "pt",
+        "code_alpha3_uc": "PRT",
+        "code_alpha3_lc": "prt",
+        "code_numeric": 620,
+        "cctld": ".pt",
+        "translations": {
+            "en": {
+                "name": "Portugal",
+                "longname": null
+            },
+            "de": {
+                "name": "Portugal",
+                "longname": "die Portugiesische Republik"
+            },
+            "fr": {
+                "name": "Portugal (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PW",
+        "code_alpha2_lc": "pw",
+        "code_alpha3_uc": "PLW",
+        "code_alpha3_lc": "plw",
+        "code_numeric": 585,
+        "cctld": ".pw",
+        "translations": {
+            "en": {
+                "name": "Palau",
+                "longname": null
+            },
+            "de": {
+                "name": "Palau",
+                "longname": "die Republik Palau"
+            },
+            "fr": {
+                "name": "Palaos (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "PY",
+        "code_alpha2_lc": "py",
+        "code_alpha3_uc": "PRY",
+        "code_alpha3_lc": "pry",
+        "code_numeric": 600,
+        "cctld": ".py",
+        "translations": {
+            "en": {
+                "name": "Paraguay",
+                "longname": null
+            },
+            "de": {
+                "name": "Paraguay",
+                "longname": "die Republik Paraguay"
+            },
+            "fr": {
+                "name": "Paraguay (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "QA",
+        "code_alpha2_lc": "qa",
+        "code_alpha3_uc": "QAT",
+        "code_alpha3_lc": "qat",
+        "code_numeric": 634,
+        "cctld": ".qa",
+        "translations": {
+            "en": {
+                "name": "Qatar",
+                "longname": null
+            },
+            "de": {
+                "name": "Katar",
+                "longname": "der Staat Katar"
+            },
+            "fr": {
+                "name": "Qatar (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "RE",
+        "code_alpha2_lc": "re",
+        "code_alpha3_uc": "REU",
+        "code_alpha3_lc": "reu",
+        "code_numeric": 638,
+        "cctld": ".re",
+        "translations": {
+            "en": {
+                "name": "R\u00e9union",
+                "longname": null
+            },
+            "de": {
+                "name": "R\u00e9union",
+                "longname": null
+            },
+            "fr": {
+                "name": "R\u00e9union (La)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "RO",
+        "code_alpha2_lc": "ro",
+        "code_alpha3_uc": "ROU",
+        "code_alpha3_lc": "rou",
+        "code_numeric": 642,
+        "cctld": ".ro",
+        "translations": {
+            "en": {
+                "name": "Romania",
+                "longname": null
+            },
+            "de": {
+                "name": "Rum\u00e4nien",
+                "longname": "Rum\u00e4nien"
+            },
+            "fr": {
+                "name": "Roumanie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "RS",
+        "code_alpha2_lc": "rs",
+        "code_alpha3_uc": "SRB",
+        "code_alpha3_lc": "srb",
+        "code_numeric": 688,
+        "cctld": ".rs",
+        "translations": {
+            "en": {
+                "name": "Serbia",
+                "longname": null
+            },
+            "de": {
+                "name": "Serbien",
+                "longname": "die Republik Serbien"
+            },
+            "fr": {
+                "name": "Serbie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "RU",
+        "code_alpha2_lc": "ru",
+        "code_alpha3_uc": "RUS",
+        "code_alpha3_lc": "rus",
+        "code_numeric": 643,
+        "cctld": ".ru",
+        "translations": {
+            "en": {
+                "name": "Russian Federation",
+                "longname": null
+            },
+            "de": {
+                "name": "Russische F\u00f6deration",
+                "longname": "die Russische F\u00f6deration"
+            },
+            "fr": {
+                "name": "Russie (la F\u00e9d\u00e9ration de)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "RW",
+        "code_alpha2_lc": "rw",
+        "code_alpha3_uc": "RWA",
+        "code_alpha3_lc": "rwa",
+        "code_numeric": 646,
+        "cctld": ".rw",
+        "translations": {
+            "en": {
+                "name": "Rwanda",
+                "longname": null
+            },
+            "de": {
+                "name": "Ruanda",
+                "longname": "die Republik Ruanda"
+            },
+            "fr": {
+                "name": "Rwanda (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SA",
+        "code_alpha2_lc": "sa",
+        "code_alpha3_uc": "SAU",
+        "code_alpha3_lc": "sau",
+        "code_numeric": 682,
+        "cctld": ".sa",
+        "translations": {
+            "en": {
+                "name": "Saudi Arabia",
+                "longname": null
+            },
+            "de": {
+                "name": "Saudi-Arabien",
+                "longname": "das K\u00f6nigreich Saudi-Arabien"
+            },
+            "fr": {
+                "name": "Arabie saoudite (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SB",
+        "code_alpha2_lc": "sb",
+        "code_alpha3_uc": "SLB",
+        "code_alpha3_lc": "slb",
+        "code_numeric": 90,
+        "cctld": ".sb",
+        "translations": {
+            "en": {
+                "name": "Solomon Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Salomonen",
+                "longname": "die Salomonen"
+            },
+            "fr": {
+                "name": "Salomon (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SC",
+        "code_alpha2_lc": "sc",
+        "code_alpha3_uc": "SYC",
+        "code_alpha3_lc": "syc",
+        "code_numeric": 690,
+        "cctld": ".sc",
+        "translations": {
+            "en": {
+                "name": "Seychelles",
+                "longname": null
+            },
+            "de": {
+                "name": "Seychellen",
+                "longname": "die Republik Seychellen"
+            },
+            "fr": {
+                "name": "Seychelles (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SD",
+        "code_alpha2_lc": "sd",
+        "code_alpha3_uc": "SDN",
+        "code_alpha3_lc": "sdn",
+        "code_numeric": 729,
+        "cctld": ".sd",
+        "translations": {
+            "en": {
+                "name": "Sudan",
+                "longname": null
+            },
+            "de": {
+                "name": "Sudan",
+                "longname": "die Republik Sudan"
+            },
+            "fr": {
+                "name": "Soudan (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SE",
+        "code_alpha2_lc": "se",
+        "code_alpha3_uc": "SWE",
+        "code_alpha3_lc": "swe",
+        "code_numeric": 752,
+        "cctld": ".se",
+        "translations": {
+            "en": {
+                "name": "Sweden",
+                "longname": null
+            },
+            "de": {
+                "name": "Schweden",
+                "longname": "das K\u00f6nigreich Schweden"
+            },
+            "fr": {
+                "name": "Su\u00e8de (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SG",
+        "code_alpha2_lc": "sg",
+        "code_alpha3_uc": "SGP",
+        "code_alpha3_lc": "sgp",
+        "code_numeric": 702,
+        "cctld": ".sg",
+        "translations": {
+            "en": {
+                "name": "Singapore",
+                "longname": null
+            },
+            "de": {
+                "name": "Singapur",
+                "longname": "die Republik Singapur"
+            },
+            "fr": {
+                "name": "Singapour",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SH",
+        "code_alpha2_lc": "sh",
+        "code_alpha3_uc": "SHN",
+        "code_alpha3_lc": "shn",
+        "code_numeric": 654,
+        "cctld": ".sh",
+        "translations": {
+            "en": {
+                "name": "Saint Helena, Ascension and Tristan da Cunha",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Helena, Ascension und Tristan da Cunha",
+                "longname": null
+            },
+            "fr": {
+                "name": "Sainte-H\u00e9l\u00e8ne, Ascension et Tristan da Cunha",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SI",
+        "code_alpha2_lc": "si",
+        "code_alpha3_uc": "SVN",
+        "code_alpha3_lc": "svn",
+        "code_numeric": 705,
+        "cctld": ".si",
+        "translations": {
+            "en": {
+                "name": "Slovenia",
+                "longname": null
+            },
+            "de": {
+                "name": "Slowenien",
+                "longname": "die Republik Slowenien"
+            },
+            "fr": {
+                "name": "Slov\u00e9nie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SJ",
+        "code_alpha2_lc": "sj",
+        "code_alpha3_uc": "SJM",
+        "code_alpha3_lc": "sjm",
+        "code_numeric": 744,
+        "cctld": ".sj",
+        "translations": {
+            "en": {
+                "name": "Svalbard and Jan Mayen",
+                "longname": null
+            },
+            "de": {
+                "name": "Svalbard und Jan Mayen",
+                "longname": null
+            },
+            "fr": {
+                "name": "Svalbard et l'\u00cele Jan Mayen (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SK",
+        "code_alpha2_lc": "sk",
+        "code_alpha3_uc": "SVK",
+        "code_alpha3_lc": "svk",
+        "code_numeric": 703,
+        "cctld": ".sk",
+        "translations": {
+            "en": {
+                "name": "Slovakia",
+                "longname": null
+            },
+            "de": {
+                "name": "Slowakei",
+                "longname": "die Slowakische Republik"
+            },
+            "fr": {
+                "name": "Slovaquie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SL",
+        "code_alpha2_lc": "sl",
+        "code_alpha3_uc": "SLE",
+        "code_alpha3_lc": "sle",
+        "code_numeric": 694,
+        "cctld": ".sl",
+        "translations": {
+            "en": {
+                "name": "Sierra Leone",
+                "longname": null
+            },
+            "de": {
+                "name": "Sierra Leone",
+                "longname": "die Republik Sierra Leone"
+            },
+            "fr": {
+                "name": "Sierra Leone (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SM",
+        "code_alpha2_lc": "sm",
+        "code_alpha3_uc": "SMR",
+        "code_alpha3_lc": "smr",
+        "code_numeric": 674,
+        "cctld": ".sm",
+        "translations": {
+            "en": {
+                "name": "San Marino",
+                "longname": null
+            },
+            "de": {
+                "name": "San Marino",
+                "longname": "die Republik San Marino"
+            },
+            "fr": {
+                "name": "Saint-Marin",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SN",
+        "code_alpha2_lc": "sn",
+        "code_alpha3_uc": "SEN",
+        "code_alpha3_lc": "sen",
+        "code_numeric": 686,
+        "cctld": ".sn",
+        "translations": {
+            "en": {
+                "name": "Senegal",
+                "longname": null
+            },
+            "de": {
+                "name": "Senegal",
+                "longname": "die Republik Senegal"
+            },
+            "fr": {
+                "name": "S\u00e9n\u00e9gal (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SO",
+        "code_alpha2_lc": "so",
+        "code_alpha3_uc": "SOM",
+        "code_alpha3_lc": "som",
+        "code_numeric": 706,
+        "cctld": ".so",
+        "translations": {
+            "en": {
+                "name": "Somalia",
+                "longname": null
+            },
+            "de": {
+                "name": "Somalia",
+                "longname": "die Bundesrepublik Somalia"
+            },
+            "fr": {
+                "name": "Somalie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SR",
+        "code_alpha2_lc": "sr",
+        "code_alpha3_uc": "SUR",
+        "code_alpha3_lc": "sur",
+        "code_numeric": 740,
+        "cctld": ".sr",
+        "translations": {
+            "en": {
+                "name": "Suriname",
+                "longname": null
+            },
+            "de": {
+                "name": "Suriname",
+                "longname": "die Republik Suriname"
+            },
+            "fr": {
+                "name": "Suriname (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SS",
+        "code_alpha2_lc": "ss",
+        "code_alpha3_uc": "SSD",
+        "code_alpha3_lc": "ssd",
+        "code_numeric": 728,
+        "cctld": ".ss",
+        "translations": {
+            "en": {
+                "name": "South Sudan",
+                "longname": null
+            },
+            "de": {
+                "name": "S\u00fcdsudan",
+                "longname": "die Republik S\u00fcdsudan"
+            },
+            "fr": {
+                "name": "Soudan du Sud (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ST",
+        "code_alpha2_lc": "st",
+        "code_alpha3_uc": "STP",
+        "code_alpha3_lc": "stp",
+        "code_numeric": 678,
+        "cctld": ".st",
+        "translations": {
+            "en": {
+                "name": "Sao Tome and Principe",
+                "longname": null
+            },
+            "de": {
+                "name": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
+                "longname": "die Demokratische Republik S\u00e3o Tom\u00e9 und Pr\u00edncipe"
+            },
+            "fr": {
+                "name": "Sao Tom\u00e9-et-Principe",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SV",
+        "code_alpha2_lc": "sv",
+        "code_alpha3_uc": "SLV",
+        "code_alpha3_lc": "slv",
+        "code_numeric": 222,
+        "cctld": ".sv",
+        "translations": {
+            "en": {
+                "name": "El Salvador",
+                "longname": null
+            },
+            "de": {
+                "name": "El Salvador",
+                "longname": "die Republik El Salvador"
+            },
+            "fr": {
+                "name": "El Salvador",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SX",
+        "code_alpha2_lc": "sx",
+        "code_alpha3_uc": "SXM",
+        "code_alpha3_lc": "sxm",
+        "code_numeric": 534,
+        "cctld": ".sx",
+        "translations": {
+            "en": {
+                "name": "Sint Maarten (Dutch part)",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Martin (Niederl\u00e4ndischer Teil)",
+                "longname": null
+            },
+            "fr": {
+                "name": "Saint-Martin (partie n\u00e9erlandaise)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SY",
+        "code_alpha2_lc": "sy",
+        "code_alpha3_uc": "SYR",
+        "code_alpha3_lc": "syr",
+        "code_numeric": 760,
+        "cctld": ".sy",
+        "translations": {
+            "en": {
+                "name": "Syrian Arab Republic",
+                "longname": null
+            },
+            "de": {
+                "name": "Arabische Republik Syrien",
+                "longname": "die Arabische Republik Syrien"
+            },
+            "fr": {
+                "name": "R\u00e9publique arabe syrienne (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "SZ",
+        "code_alpha2_lc": "sz",
+        "code_alpha3_uc": "SWZ",
+        "code_alpha3_lc": "swz",
+        "code_numeric": 748,
+        "cctld": ".sz",
+        "translations": {
+            "en": {
+                "name": "Eswatini",
+                "longname": null
+            },
+            "de": {
+                "name": "Eswatini",
+                "longname": "das K\u00f6nigreich Eswatini"
+            },
+            "fr": {
+                "name": "Eswatini (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TC",
+        "code_alpha2_lc": "tc",
+        "code_alpha3_uc": "TCA",
+        "code_alpha3_lc": "tca",
+        "code_numeric": 796,
+        "cctld": ".tc",
+        "translations": {
+            "en": {
+                "name": "Turks and Caicos Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Turks- und Caicosinseln",
+                "longname": null
+            },
+            "fr": {
+                "name": "Turks-et-Ca\u00efcos (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TD",
+        "code_alpha2_lc": "td",
+        "code_alpha3_uc": "TCD",
+        "code_alpha3_lc": "tcd",
+        "code_numeric": 148,
+        "cctld": ".td",
+        "translations": {
+            "en": {
+                "name": "Chad",
+                "longname": null
+            },
+            "de": {
+                "name": "Tschad",
+                "longname": "die Republik Tschad"
+            },
+            "fr": {
+                "name": "Tchad (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TF",
+        "code_alpha2_lc": "tf",
+        "code_alpha3_uc": "ATF",
+        "code_alpha3_lc": "atf",
+        "code_numeric": 260,
+        "cctld": ".tf",
+        "translations": {
+            "en": {
+                "name": "French Southern Territories",
+                "longname": null
+            },
+            "de": {
+                "name": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete",
+                "longname": null
+            },
+            "fr": {
+                "name": "Terres australes fran\u00e7aises (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TG",
+        "code_alpha2_lc": "tg",
+        "code_alpha3_uc": "TGO",
+        "code_alpha3_lc": "tgo",
+        "code_numeric": 768,
+        "cctld": ".tg",
+        "translations": {
+            "en": {
+                "name": "Togo",
+                "longname": null
+            },
+            "de": {
+                "name": "Togo",
+                "longname": "die Republik Togo"
+            },
+            "fr": {
+                "name": "Togo (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TH",
+        "code_alpha2_lc": "th",
+        "code_alpha3_uc": "THA",
+        "code_alpha3_lc": "tha",
+        "code_numeric": 764,
+        "cctld": ".th",
+        "translations": {
+            "en": {
+                "name": "Thailand",
+                "longname": null
+            },
+            "de": {
+                "name": "Thailand",
+                "longname": "das K\u00f6nigreich Thailand"
+            },
+            "fr": {
+                "name": "Tha\u00eflande (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TJ",
+        "code_alpha2_lc": "tj",
+        "code_alpha3_uc": "TJK",
+        "code_alpha3_lc": "tjk",
+        "code_numeric": 762,
+        "cctld": ".tj",
+        "translations": {
+            "en": {
+                "name": "Tajikistan",
+                "longname": null
+            },
+            "de": {
+                "name": "Tadschikistan",
+                "longname": "die Republik Tadschikistan"
+            },
+            "fr": {
+                "name": "Tadjikistan (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TK",
+        "code_alpha2_lc": "tk",
+        "code_alpha3_uc": "TKL",
+        "code_alpha3_lc": "tkl",
+        "code_numeric": 772,
+        "cctld": ".tk",
+        "translations": {
+            "en": {
+                "name": "Tokelau",
+                "longname": null
+            },
+            "de": {
+                "name": "Tokelau",
+                "longname": null
+            },
+            "fr": {
+                "name": "Tokelau (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TL",
+        "code_alpha2_lc": "tl",
+        "code_alpha3_uc": "TLS",
+        "code_alpha3_lc": "tls",
+        "code_numeric": 626,
+        "cctld": ".tl",
+        "translations": {
+            "en": {
+                "name": "Timor-Leste",
+                "longname": null
+            },
+            "de": {
+                "name": "Timor-Leste",
+                "longname": "die Demokratische Republik Timor-Leste"
+            },
+            "fr": {
+                "name": "Timor-Leste (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TM",
+        "code_alpha2_lc": "tm",
+        "code_alpha3_uc": "TKM",
+        "code_alpha3_lc": "tkm",
+        "code_numeric": 795,
+        "cctld": ".tm",
+        "translations": {
+            "en": {
+                "name": "Turkmenistan",
+                "longname": null
+            },
+            "de": {
+                "name": "Turkmenistan",
+                "longname": "Turkmenistan"
+            },
+            "fr": {
+                "name": "Turkm\u00e9nistan (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TN",
+        "code_alpha2_lc": "tn",
+        "code_alpha3_uc": "TUN",
+        "code_alpha3_lc": "tun",
+        "code_numeric": 788,
+        "cctld": ".tn",
+        "translations": {
+            "en": {
+                "name": "Tunisia",
+                "longname": null
+            },
+            "de": {
+                "name": "Tunesien",
+                "longname": "die Tunesische Republik"
+            },
+            "fr": {
+                "name": "Tunisie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TO",
+        "code_alpha2_lc": "to",
+        "code_alpha3_uc": "TON",
+        "code_alpha3_lc": "ton",
+        "code_numeric": 776,
+        "cctld": ".to",
+        "translations": {
+            "en": {
+                "name": "Tonga",
+                "longname": null
+            },
+            "de": {
+                "name": "Tonga",
+                "longname": "das K\u00f6nigreich Tonga"
+            },
+            "fr": {
+                "name": "Tonga (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TR",
+        "code_alpha2_lc": "tr",
+        "code_alpha3_uc": "TUR",
+        "code_alpha3_lc": "tur",
+        "code_numeric": 792,
+        "cctld": ".tr",
+        "translations": {
+            "en": {
+                "name": "T\u00fcrkiye",
+                "longname": null
+            },
+            "de": {
+                "name": "T\u00fcrkei",
+                "longname": "die Republik T\u00fcrkei"
+            },
+            "fr": {
+                "name": "T\u00fcrkiye (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TT",
+        "code_alpha2_lc": "tt",
+        "code_alpha3_uc": "TTO",
+        "code_alpha3_lc": "tto",
+        "code_numeric": 780,
+        "cctld": ".tt",
+        "translations": {
+            "en": {
+                "name": "Trinidad and Tobago",
+                "longname": null
+            },
+            "de": {
+                "name": "Trinidad und Tobago",
+                "longname": "die Republik Trinidad und Tobago"
+            },
+            "fr": {
+                "name": "Trinit\u00e9-et-Tobago (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TV",
+        "code_alpha2_lc": "tv",
+        "code_alpha3_uc": "TUV",
+        "code_alpha3_lc": "tuv",
+        "code_numeric": 798,
+        "cctld": ".tv",
+        "translations": {
+            "en": {
+                "name": "Tuvalu",
+                "longname": null
+            },
+            "de": {
+                "name": "Tuvalu",
+                "longname": "Tuvalu"
+            },
+            "fr": {
+                "name": "Tuvalu (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TW",
+        "code_alpha2_lc": "tw",
+        "code_alpha3_uc": "TWN",
+        "code_alpha3_lc": "twn",
+        "code_numeric": 158,
+        "cctld": ".tw",
+        "translations": {
+            "en": {
+                "name": "Taiwan, Province of China",
+                "longname": null
+            },
+            "de": {
+                "name": "Taiwan",
+                "longname": "Taiwan"
+            },
+            "fr": {
+                "name": "Ta\u00efwan (Province de Chine)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "TZ",
+        "code_alpha2_lc": "tz",
+        "code_alpha3_uc": "TZA",
+        "code_alpha3_lc": "tza",
+        "code_numeric": 834,
+        "cctld": ".tz",
+        "translations": {
+            "en": {
+                "name": "Tanzania, United Republic of",
+                "longname": null
+            },
+            "de": {
+                "name": "Vereinigte Republik Tansania",
+                "longname": "die Vereinigte Republik Tansania"
+            },
+            "fr": {
+                "name": "Tanzanie (la R\u00e9publique-Unie de)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "UA",
+        "code_alpha2_lc": "ua",
+        "code_alpha3_uc": "UKR",
+        "code_alpha3_lc": "ukr",
+        "code_numeric": 804,
+        "cctld": ".ua",
+        "translations": {
+            "en": {
+                "name": "Ukraine",
+                "longname": null
+            },
+            "de": {
+                "name": "Ukraine",
+                "longname": "die Ukraine"
+            },
+            "fr": {
+                "name": "Ukraine (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "UG",
+        "code_alpha2_lc": "ug",
+        "code_alpha3_uc": "UGA",
+        "code_alpha3_lc": "uga",
+        "code_numeric": 800,
+        "cctld": ".ug",
+        "translations": {
+            "en": {
+                "name": "Uganda",
+                "longname": null
+            },
+            "de": {
+                "name": "Uganda",
+                "longname": "die Republik Uganda"
+            },
+            "fr": {
+                "name": "Ouganda (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "UM",
+        "code_alpha2_lc": "um",
+        "code_alpha3_uc": "UMI",
+        "code_alpha3_lc": "umi",
+        "code_numeric": 581,
+        "cctld": ".um",
+        "translations": {
+            "en": {
+                "name": "United States Minor Outlying Islands",
+                "longname": null
+            },
+            "de": {
+                "name": "Amerikanische \u00dcberseeinseln, Kleinere",
+                "longname": "Kleinere amerikanische \u00dcberseeinseln"
+            },
+            "fr": {
+                "name": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-Unis (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "US",
+        "code_alpha2_lc": "us",
+        "code_alpha3_uc": "USA",
+        "code_alpha3_lc": "usa",
+        "code_numeric": 840,
+        "cctld": ".us",
+        "translations": {
+            "en": {
+                "name": "United States of America",
+                "longname": null
+            },
+            "de": {
+                "name": "Vereinigte Staaten",
+                "longname": "die Vereinigten Staaten von Amerika"
+            },
+            "fr": {
+                "name": "\u00c9tats-Unis d'Am\u00e9rique (les)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "UY",
+        "code_alpha2_lc": "uy",
+        "code_alpha3_uc": "URY",
+        "code_alpha3_lc": "ury",
+        "code_numeric": 858,
+        "cctld": ".uy",
+        "translations": {
+            "en": {
+                "name": "Uruguay",
+                "longname": null
+            },
+            "de": {
+                "name": "Uruguay",
+                "longname": "die Republik \u00d6stlich des Uruguay"
+            },
+            "fr": {
+                "name": "Uruguay (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "UZ",
+        "code_alpha2_lc": "uz",
+        "code_alpha3_uc": "UZB",
+        "code_alpha3_lc": "uzb",
+        "code_numeric": 860,
+        "cctld": ".uz",
+        "translations": {
+            "en": {
+                "name": "Uzbekistan",
+                "longname": null
+            },
+            "de": {
+                "name": "Usbekistan",
+                "longname": "die Republik Usbekistan"
+            },
+            "fr": {
+                "name": "Ouzb\u00e9kistan (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "VA",
+        "code_alpha2_lc": "va",
+        "code_alpha3_uc": "VAT",
+        "code_alpha3_lc": "vat",
+        "code_numeric": 336,
+        "cctld": ".va",
+        "translations": {
+            "en": {
+                "name": "Holy See",
+                "longname": null
+            },
+            "de": {
+                "name": "Vatikanstadt",
+                "longname": "der Staat Vatikanstadt"
+            },
+            "fr": {
+                "name": "Saint-Si\u00e8ge (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "VC",
+        "code_alpha2_lc": "vc",
+        "code_alpha3_uc": "VCT",
+        "code_alpha3_lc": "vct",
+        "code_numeric": 670,
+        "cctld": ".vc",
+        "translations": {
+            "en": {
+                "name": "Saint Vincent and the Grenadines",
+                "longname": null
+            },
+            "de": {
+                "name": "St. Vincent und die Grenadinen",
+                "longname": "St. Vincent und die Grenadinen"
+            },
+            "fr": {
+                "name": "Saint-Vincent-et-les Grenadines",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "VE",
+        "code_alpha2_lc": "ve",
+        "code_alpha3_uc": "VEN",
+        "code_alpha3_lc": "ven",
+        "code_numeric": 862,
+        "cctld": ".ve",
+        "translations": {
+            "en": {
+                "name": "Venezuela, Bolivarian Republic of",
+                "longname": null
+            },
+            "de": {
+                "name": "Bolivarische Republik Venezuela",
+                "longname": "die Bolivarische Republik Venezuela"
+            },
+            "fr": {
+                "name": "Venezuela (R\u00e9publique bolivarienne du)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "VG",
+        "code_alpha2_lc": "vg",
+        "code_alpha3_uc": "VGB",
+        "code_alpha3_lc": "vgb",
+        "code_numeric": 92,
+        "cctld": ".vg",
+        "translations": {
+            "en": {
+                "name": "Virgin Islands (British)",
+                "longname": null
+            },
+            "de": {
+                "name": "Britische Jungferninseln",
+                "longname": null
+            },
+            "fr": {
+                "name": "Vierges britanniques (les\u00a0\u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "VI",
+        "code_alpha2_lc": "vi",
+        "code_alpha3_uc": "VIR",
+        "code_alpha3_lc": "vir",
+        "code_numeric": 850,
+        "cctld": ".vi",
+        "translations": {
+            "en": {
+                "name": "Virgin Islands (U.S.)",
+                "longname": null
+            },
+            "de": {
+                "name": "Amerikanische Jungferninseln",
+                "longname": null
+            },
+            "fr": {
+                "name": "Vierges des \u00c9tats-Unis (les \u00celes)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "VN",
+        "code_alpha2_lc": "vn",
+        "code_alpha3_uc": "VNM",
+        "code_alpha3_lc": "vnm",
+        "code_numeric": 704,
+        "cctld": ".vn",
+        "translations": {
+            "en": {
+                "name": "Viet Nam",
+                "longname": null
+            },
+            "de": {
+                "name": "Vietnam",
+                "longname": "die Sozialistische Republik Vietnam"
+            },
+            "fr": {
+                "name": "Viet Nam (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "VU",
+        "code_alpha2_lc": "vu",
+        "code_alpha3_uc": "VUT",
+        "code_alpha3_lc": "vut",
+        "code_numeric": 548,
+        "cctld": ".vu",
+        "translations": {
+            "en": {
+                "name": "Vanuatu",
+                "longname": null
+            },
+            "de": {
+                "name": "Vanuatu",
+                "longname": "die Republik Vanuatu"
+            },
+            "fr": {
+                "name": "Vanuatu (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "WF",
+        "code_alpha2_lc": "wf",
+        "code_alpha3_uc": "WLF",
+        "code_alpha3_lc": "wlf",
+        "code_numeric": 876,
+        "cctld": ".wf",
+        "translations": {
+            "en": {
+                "name": "Wallis and Futuna",
+                "longname": null
+            },
+            "de": {
+                "name": "Wallis und Futuna",
+                "longname": null
+            },
+            "fr": {
+                "name": "Wallis-et-Futuna ",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "WS",
+        "code_alpha2_lc": "ws",
+        "code_alpha3_uc": "WSM",
+        "code_alpha3_lc": "wsm",
+        "code_numeric": 882,
+        "cctld": ".ws",
+        "translations": {
+            "en": {
+                "name": "Samoa",
+                "longname": null
+            },
+            "de": {
+                "name": "Samoa",
+                "longname": "der Unabh\u00e4ngige Staat Samoa"
+            },
+            "fr": {
+                "name": "Samoa (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "YE",
+        "code_alpha2_lc": "ye",
+        "code_alpha3_uc": "YEM",
+        "code_alpha3_lc": "yem",
+        "code_numeric": 887,
+        "cctld": ".ye",
+        "translations": {
+            "en": {
+                "name": "Yemen",
+                "longname": null
+            },
+            "de": {
+                "name": "Jemen",
+                "longname": "die Republik Jemen"
+            },
+            "fr": {
+                "name": "Y\u00e9men (le)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "YT",
+        "code_alpha2_lc": "yt",
+        "code_alpha3_uc": "MYT",
+        "code_alpha3_lc": "myt",
+        "code_numeric": 175,
+        "cctld": ".yt",
+        "translations": {
+            "en": {
+                "name": "Mayotte",
+                "longname": null
+            },
+            "de": {
+                "name": "Mayotte",
+                "longname": null
+            },
+            "fr": {
+                "name": "Mayotte",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ZA",
+        "code_alpha2_lc": "za",
+        "code_alpha3_uc": "ZAF",
+        "code_alpha3_lc": "zaf",
+        "code_numeric": 710,
+        "cctld": ".za",
+        "translations": {
+            "en": {
+                "name": "South Africa",
+                "longname": null
+            },
+            "de": {
+                "name": "S\u00fcdafrika",
+                "longname": "die Republik S\u00fcdafrika"
+            },
+            "fr": {
+                "name": "Afrique du Sud (l')",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ZM",
+        "code_alpha2_lc": "zm",
+        "code_alpha3_uc": "ZMB",
+        "code_alpha3_lc": "zmb",
+        "code_numeric": 894,
+        "cctld": ".zm",
+        "translations": {
+            "en": {
+                "name": "Zambia",
+                "longname": null
+            },
+            "de": {
+                "name": "Sambia",
+                "longname": "die Republik Sambia"
+            },
+            "fr": {
+                "name": "Zambie (la)",
+                "longname": null
+            }
+        }
+    },
+    {
+        "code_alpha2_uc": "ZW",
+        "code_alpha2_lc": "zw",
+        "code_alpha3_uc": "ZWE",
+        "code_alpha3_lc": "zwe",
+        "code_numeric": 716,
+        "cctld": ".zw",
+        "translations": {
+            "en": {
+                "name": "Zimbabwe",
+                "longname": null
+            },
+            "de": {
+                "name": "Simbabwe",
+                "longname": "die Republik Simbabwe"
+            },
+            "fr": {
+                "name": "Zimbabwe (le)",
+                "longname": null
+            }
+        }
+    }
+]
